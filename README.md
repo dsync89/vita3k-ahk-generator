@@ -18,20 +18,11 @@ Things become tedious to add to your favorite FrontEnd if you imported the whole
 
 # Quick Start
 
-Generate a list of AHK for each game in your game folder. If you downloaded from Erista, use that here.
-```
-python3 gen_ahk.py
-```
+Copy `.emupath.txt` and `.gamedb.txt` from `out` folder into your ROMs folder. Modify the path in `.emupath.txt` to where you put your `Vita3k.exe` emulator.
 
-Generate a `.gamedb.txt` file containing `GameTitle|GameID` that the AHK file will lookup to start Vita3K. Vita3K uses GameID to launch game, not game title.
-```
-python3 gen_gamedb.py
-```
+Copy all `.ahk` scripts from `out/ahk` into the same level as your ROMs folder.
 
-Create a `.emupath` file in your ROM folder, and put the path to your Vita3K inside. E.g.
-```
-"c:\Programs\LaunchBox\Emulators\Vita 3k\Vita3K.exe"
-```
+Double click on any `.ahk` file and the game should load.
 
 Example of the final dir
 ```
@@ -43,6 +34,24 @@ Example of the final dir
 |- [Game2]
 ...
 ```
+
+# Generating Output
+
+The `.gamedb.txt` which contains the game title and game ID is generated from `scripts/gen_ahk.py`. Each row in that file consist of the format of `GameTitle|GameID` that the AHK file will lookup to start Vita3K. Vita3K uses GameID to launch game, not game title.
+
+To replicate the work,
+
+Generate a list of AHK for each game in your game folder. If you downloaded from Erista, use that here.
+```
+python3 gen_ahk.py
+```
+
+Generate a `.gamedb.txt` file containing `GameTitle|GameID` that the AHK file will lookup to start Vita3K. Vita3K uses GameID to launch game, not game title.
+```
+python3 gen_gamedb.py
+```
+
+Note that if you run it on ROM for Erista, some games might have `?` instead of it's GameID. The script extract the GameID from the `.pkg` filename and it must have the format of `UP0891-PCSE01356_00-RATAACCESSDENIED_bg_1_608369de8958e541869c6e4e714f395904f7f836.pkg`. So if the `.pkg` filename has the format of `fgcTnrIklUaUeefOmUFQRYSqfpeYTPYGwiMvbYcdRZCwgiYCWHhjthMjiSJnWpXZ.pkg`, the script will simply put a `?` for it. This require manual lookup from the `.tsv` downloadable from NoPayStation: https://nopaystation.com/tsv/PSV_GAMES.tsv. Don't worry as I already try my best to fill in all the `?` in the `out/.gamedb.txt` file so you don't have to do the manual labor work.
 
 # Integrating with Launchbox
 
