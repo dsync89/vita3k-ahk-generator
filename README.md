@@ -30,8 +30,10 @@ Generate a `.gamedb.txt` file containing `GameTitle|GameID` that the AHK file wi
 python3 gen_gamedb.py
 ```
 
-Create a `.emupath` file in your ROm folder
-
+Create a `.emupath` file in your ROM folder, and put the path to your Vita3K inside. E.g.
+```
+"c:\Programs\LaunchBox\Emulators\Vita 3k\Vita3K.exe"
+```
 
 Example of the final dir
 ```
