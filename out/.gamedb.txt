@@ -1,0 +1,1824 @@
+#Killallzombies (USA)|PCSE00965
+#Killallzombies Companion App (Europe)|PCSB00856
+10 Second Ninja X (USA)|PCSE00890
+1001 Spikes (USA)|PCSE00349
+2013 - Infected Wars (USA)|PCSE00634
+2064 - Read Only Memories (USA)|PCSE00972
+36 Fragments of Midnight (USA)|PCSE01169
+5-nin no Koi Prince - Himitsu no Keiyaku Kekkon (Japan)|PCSG00590
+7'scarlet (USA)|PCSE01168
+99Vidas (USA)|PCSE00914
+A-Men (USA) (En,Fr,Es)|PCSE00232
+A-Men 2 (USA)|PCSE00324
+A.W. - Phoenix Festa (USA)|PCSE00871
+Aabs Animals (USA)|PCSE00278
+Aban Hawkings and the 1001 Spikes - The Temple of the Dead Mourns (Japan)|PCSG00778
+Abunai Koi no Sousashitsu - Eternal Happiness (Japan)|PCSG00591
+Accel World vs. Sword Art Online (USA)|PCSE01071
+Access Denied (USA)|PCSE01356
+Active Neurons (USA) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko,Ru)|PCSE01448
+Active Soccer 2 DX (USA)|PCSE01093
+Actual Sunlight (USA)|PCSE00695
+Adventure Time - The Secret of the Nameless Kingdom (USA)|PCSE00582
+Adventures of Mana (USA)|PCSE00905
+Aegis of Earth - Protonovus Assault (USA)|PCSE00844
+Aerial Life (Japan)|PCSG01296
+AeternoBlade (USA)|PCSE00628
+Age of Zombies (USA)|PCSE00362
+Air (Japan)|PCSG00940
+Air Race Speed (USA)|PCSE00980
+Airship Q (Japan)|PCSG00461
+Aiyoku no Eustia - Angel's Blessing (Japan)|PCSG00338
+Akai Ribbon - Kimyou na Yume (Japan) (En,Ja,Fr,De,Es,Zh,Ru)|PCSG01308
+Akai Suna Ochiru Tsuki (Japan)|PCSG00780
+Akiba's Beat (USA)|PCSE00927
+Akiba's Trip - Undead & Undressed (USA)|PCSE00428
+Alia's Carnival! Sacrament (Japan)|PCSG00628
+Alien Breed (USA) (En,Fr,De,Es,It)|PCSE00210
+Alien Shooter (USA)|PCSE00445
+Alone with You (USA)|PCSE00887
+Alphaset by POWGI (Europe)|PCSB01457
+Alteric (USA)|PCSE01172
+Alvastia Chronicles (USA)|PCSE01341
+Amaekata wa Kanojo Nari ni. (Japan)|PCSG01086
+Amamane (Japan)|PCSG01293
+Amatsumi Sora ni! Kumo no Hatate ni (Japan)|PCSG00638
+Amatsutsumi (Japan)|PCSG01198
+Amazing Spider-Man, The (USA) (En,Fr)|PCSE00333
+Amenity's Life (Japan)|PCSG01138
+Amnesia - Memories (USA)|PCSE00647
+Amnesia Later x Crowd V Edition (Japan)|PCSG00403
+Amnesia V Edition (Japan)|PCSG00203
+Amnesia World (Japan)|PCSG00276
+Anata no Shikihime Kyoudoutan (Japan)|PCSG01163
+Angelique Retour (Japan)|PCSG00696
+Angry Birds Star Wars (USA)|PCSE00294
+Angry Birds Trilogy (USA)|PCSE00322
+Animax Plus (Japan)|PCSG00717
+Anoko wa Ore Kara Hanarenai (Japan)|PCSG00342
+Another World - 20th Anniversary Edition (USA)|PCSE00472
+Antiqua Lost (Japan)|PCSG01108
+Antiquia Lost (USA)|PCSE01147
+Ao no Kanata no Four Rhythm (Japan)|PCSG00700
+Aoki Tsubasa no Chevalier (Japan)|PCSG01281
+Aonatsu Line (Japan)|PCSG01283
+Aqua Kitty - Milk Mine Defender DX (USA)|PCSE00540
+Aqua Kitty DX (Japan)|PCSG00848
+Ar Nosurge Plus - Ode to an Unborn Star (USA)|PCSE00707
+Arcana Famiglia - La Storia della Arcana Famiglia - Ancora (Japan)|PCSG00751
+Arcana Heart 3 - Love Max!!!!! (USA)|PCSE00427
+Army Corps of Hell (USA)|PCSE00006
+Asdivine Dios (USA)|PCSE01379
+Asdivine Hearts (USA)|PCSE00968
+Asdivine Hearts II (USA)|PCSE01335
+Asdivine Menace (USA)|PCSE01419
+Asphalt - Injection (USA) (En,Fr,Es)|PCSE00007
+Assassin's Creed Chronicles (USA)|PCSE00700
+Assassin's Creed III - Liberation (USA) (En,Fr,Es)|PCSE00053
+Assault Gunners (Japan)|PCSG00079
+Asterisk War, The - The Academy City on the Water Houaa Kenran (Asia)|PCSH00249
+AstralAir no Shiroki Eien - White Eternity (Japan)|PCSG00901
+Astro Aqua Kitty (USA)|PCSE01497
+Atari Flashback Classics (USA)|PCSE01333
+Atelier Ayesha Plus - The Alchemist of Dusk (USA)|PCSE00584
+Atelier Escha & Logy Plus - Alchemists of the Dusk Sky (USA)|PCSE00826
+Atelier Firis - The Alchemist and the Mysterious Journey (USA)|PCSE01044
+Atelier Lydie & Soeur - Fushigi na Kaiga no Renkinjutsu Samurai (Japan)|PCSG01116
+Atelier Meruru Plus - The Apprentice of Arland (USA)|PCSE00296
+Atelier Rorona Plus - The Alchemist of Arland (USA)|PCSE00466
+Atelier Shallie Plus - Alchemists of the Dusk Sea (USA)|PCSE00998
+Atelier Sophie - The Alchemist of the Mysterious Book (USA)|PCSE00892
+Atelier Totori Plus - The Adventurer of Arland (USA)|PCSE00231
+Atomic Ninjas (USA) (En,Fr,De,Es,It)|PCSE00274
+Attack of the Toy Tanks (USA)|PCSE01397
+Attack on Titan (Asia)|PCSH00253
+Attack on Titan - Wings of Freedom (USA)|PCSE00812
+Attractio (USA)|PCSE00780
+Awesome Pea (USA)|PCSE01367
+Awesome Pea 2 (Asia)|PCSH10275
+Axiom Verge (USA)|PCSE00651
+Ayakashi Gohan - Oomori! (Japan)|PCSG00666
+Azayaka na Irodori no Naka de, Kimi Rashiku (Japan)|PCSG01175
+Azkend 2 - The World Beneath (USA)|PCSE00861
+Baboon! (Europe)|PCSB00569
+Back in 1995 (USA)|PCSE01343
+Back to Bed (USA)|PCSE00706
+Backgammon Blitz (USA) (En,Fr,Es)|PCSE00386
+Bad Apple Wars (USA)|PCSE01042
+Badland - Game of the Year Edition (USA)|PCSE00573
+Bakumatsu Rock - Ultra Soul (Japan)|PCSG00425
+Balthazar's Dreams (USA) (En,Ja,Fr,De,Es,It,Ru)|PCSE01441
+Banbutsu Otome - Dungeons (Japan)|PCSG01123
+Bara ni Kakusareshi Verite (Japan)|PCSG00708
+Bard's Gold (USA)|PCSE00930
+Bard's Tale, The - Remastered and Resnarkled (USA)|PCSE00992
+Baseball Riot (USA)|PCSE00834
+Bastion (USA)|PCSE00790
+Batman - Arkham Origins Blackgate (USA) (En,Fr,Es)|PCSE00269
+Battalion Commander (USA)|PCSE00444
+Battle Rockets (USA) (v2.00)|PCSE01507
+Believer! (Japan)|PCSG00539
+Ben 10 - Galactic Racing (USA) (En,Fr,Es)|PCSE00024
+Beniiro Tenjou Ayakashi Kitan Futaai (Japan)|PCSG01221
+Bentley's Hackpack (USA) (En,Fr,Es,Pt)|PCSA00089
+Bentou no Subarashisa o Ano 2-Tabi 3-Tabi (Japan)|PCSG00814
+Berserk and the Band of the Hawk (USA)|PCSE01034
+Best of Arcade Games - Deluxe Edition (Europe)|PCSB00648
+Best of Board Games (USA) (En,Fr,Es)|PCSE00378
+Big Sky Infinity (USA) (En,Fr,Es)|PCSE00091
+BigFest (USA)|PCSA00148
+BinaryStar (Japan)|PCSG00389
+Binding of Isaac, The - Rebirth (USA)|PCSE00507
+Bit Dungeon Plus (USA)|PCSE01096
+Bit.Trip Presents - Runner 2 - Future Legend of Rhythm Alien (USA)|PCSE00302
+Bit.Trip, The (USA)|PCSE00735
+Bitter Smile. (Japan)|PCSG00242
+Black Wolves Saga - Weiss und Schwarz (Japan)|PCSG00935
+Blast 'Em Bunnies (USA)|PCSE00328
+Blasting Agent - Ultimate Edition (USA)|PCSE01083
+BlazBlue - Chrono Phantasma (USA)|PCSE00279
+BlazBlue - Chrono Phantasma Extend (USA)|PCSE00677
+BlazBlue - Continuum Shift Extend (USA)|PCSE00018
+Blind Men (USA) (En,De,Es)|PCSE01457
+Block-a-Pix Deluxe (USA)|PCSE01284
+Bloodstained - Curse of the Moon (USA)|PCSE01262
+Bloxiq (USA)|PCSE00663
+Blue Reflection - Maboroshi ni Mau - Shoujo no Ken (Japan)|PCSG00987
+Blue-Collar Astronaut (USA)|PCSE00864
+Bodycheck (USA)|PCSE01019
+Boku to Nurse no Kenshuu Nisshi (Japan)|PCSG01205
+Boku wa Mori Sekai no Kami Tonaru (Japan)|PCSG00797
+Bombing Busters (USA)|PCSE00783
+Bonds of the Skies (USA)|PCSE01368
+Boolink (Japan)|PCSG00259
+Borderlands 2 (USA) (En,Fr,De,Es,It)|PCSE00383
+Boss! (USA)|PCSE00604
+Bouncy Bullets (USA)|PCSE01349
+Boy and His Blob, A (USA)|PCSE00726
+Breach & Clear (USA)|PCSE00641
+BreakQuest - Extra Evolution Freedom (Europe)|PCSB00265
+BreakQuest - Extra Evolution Pro (Europe)|PCSB00431
+Breeder Homegrown (USA)|PCSE01429
+Bridge Constructor (USA)|PCSE00869
+Bridge, The (USA)|PCSE00525
+Broken Age (USA)|PCSE00657
+Broken Sword 5 - The Serpent's Curse - Episode 1 (USA)|PCSE00413
+Broken Sword 5 - The Serpent's Curse - Episode 2 (USA)|PCSE00586
+Brotherhood United (Europe)|PCSB01479
+Brothers Conflict - Precious Baby (Japan)|PCSG00755
+Browser San Goku Shi Next (Japan)|PCSG01143
+Bucket Knight (USA)|PCSE01455
+Bullet Girls (Japan)|PCSG00361
+Bullet Girls 2 (Japan)|PCSG00568
+Bullet Girls Phantasia (Asia) (En,Ja,Zh,Ko)|PCSH10099
+Bunny Must Die! Chelsea and the 7 Devils (USA)|PCSE01068
+Burly Men at Sea (USA)|PCSE01135
+Burn the Rope (USA)|PCSE00117
+Caligula (Japan)|PCSG00687
+Caligula Effect, The (USA)|PCSE01037
+Call of Duty - Black Ops - Declassified (USA) (En,Fr,Es)|PCSE00097
+Captain Earth - Mind Labyrinth (Japan)|PCSG00450
+Castle Invasion - Throne Out (USA)|PCSE00946
+CastleStorm (USA) (En,Fr,De,Es,It)|PCSE00049
+Catherine - Full Body (Japan)|PCSG01179
+CatsBlock Vestival (Asia) (En,Zh)|PCSH00099
+Cel Damage HD (USA) (En,Fr,De,Es,It)|PCSE00422
+Certain Magical Virtual-On, A (Asia)|PCSH10075
+Chain Chronicle V (Japan)|PCSG00409
+Chaos Rings (Japan)|PCSG00497
+Chaos Rings II (Japan)|PCSG00498
+Chaos Rings III (Japan)|PCSG00500
+Chaos Rings III - Prequel Trilogy (Japan)|PCSG00457
+Chaos Rings Omega (Japan)|PCSG00499
+Chaos;Child (USA)|PCSE01022
+Chaos;Child - Love Chu Chu!! (Japan)|PCSG00995
+Chaos;Head Love Chu Chu! (Japan)|PCSG00435
+Chaos;Head Noah (Japan)|PCSG00434
+CharadeManiacs (Japan)|PCSG01150
+Chasm (USA)|PCSE01031
+Chelsea-san wa 7 no Majin o Bussatsu Saneba Naranai (Japan)|PCSG00837
+Chicken Range (USA)|PCSE01247
+Child of Light (USA) (En,Fr,Es,Pt)|PCSE00480
+Chou no Doku - Hana no Kusari - Taishou Tsuyakoi Ibun (Japan)|PCSG00274
+Chouchou Jiken Rhapsodic (Japan)|PCSG01066
+Chronovolt (USA)|PCSE00044
+Chronus Arc (USA)|PCSE01281
+ChuSingura 46+1 V (Japan)|PCSG00540
+Ciel Nosurge - Ushinawareta Hoshi e Sagasu Uta Offline (Japan)|PCSG00454
+Ciel nosurge - Ushinawareta Hoshi e Sasagu Uta (Japan)|PCSG00046
+Citizens of Earth (USA) (En,Ja,Fr,De,Es,It)|PCSE00468
+Cladun Returns - This Is Sengoku! (USA)|PCSE00999
+Claire - Extended Cut (USA)|PCSE00815
+Clannad (Japan)|PCSG00415
+Cliff Diving (USA) (En,Fr,Es)|PCSA00038
+Clock Zero - Shuuen no Ichibyou ExTime (Japan)|PCSG00469
+Clover Day's (Japan)|PCSG00716
+Coconut Dodge Revitalised (USA) (En,Fr,De,Es,It)|PCSE00267
+Code - Realize - Future Blessings (USA)|PCSE01057
+Code - Realize - Guardian of Rebirth (USA)|PCSE00763
+Code - Realize - Wintertide Miracles (USA)|PCSE01278
+Collar X Malice (USA)|PCSE01011
+Collar x Malice - Unlimited (Japan)|PCSG01162
+Color Guardians (USA) (En,Fr,De,Es,It,Pt,Ru)|PCSE00612
+Color Slayer (USA)|PCSE01423
+Colors! (USA)|PCSE00123
+Conception II - Children of the Seven Stars (USA)|PCSE00376
+Conga Master Go (USA)|PCSE01406
+Contraptions (Europe)|PCSB01445
+Corda d'Oro 4, La (Asia)|PCSH00275
+Corpse Party - Blood Drive (USA)|PCSE00708
+Corridor Z (USA)|PCSE00854
+Cosmic Star Heroine (USA)|PCSE01232
+Cosmophony (USA)|PCSE00643
+Count Lucanor, The (USA)|PCSE01112
+CounterSpy (USA) (En,Ja,Fr,De,Es,It,Pt)|PCSA00116
+Coven and Labyrinth of Refrain (Korea)|PCSH00300
+Crackle (USA)|PCSE00222
+Crank In (Japan)|PCSG00941
+Crazy Market (USA)|PCSE00291
+Criminal Girls - Invite Only (USA)|PCSE00516
+Criminal Girls 2 - Party Favors (USA)|PCSE00916
+Crimsonland (USA)|PCSE00453
+Croixleur Sigma (USA)|PCSE00689
+Cross Ange - Tenshi to Ryuu no Rondo tr. (Japan)|PCSG00597
+Cross Channel - For All People (Japan)|PCSG00365
+Crossovers by POWGI (USA)|PCSE01377
+Crypt of the NecroDancer (USA)|PCSE00806
+Cure Mate Club (Japan)|PCSG00169
+Cursed Castilla EX (USA)|PCSE01152
+Curses 'N Chaos (USA)|PCSE00716
+Cybarian - The Time Traveling Warrior (USA)|PCSE01400
+D.S. - Dal Segno (Japan)|PCSG01122
+Daggerhood (USA)|PCSE01348
+Dai-3-Ji Super Robot Taisen Z Jigoku-hen (Japan)|PCSG00264
+Dai-3-Ji Super Robot Taisen Z Rengoku-hen (Japan)|PCSG00495
+Dai-3-Ji Super Robot Taisen Z Tengoku-hen (Japan)|PCSG00494
+Dairansou Dash or Dasshu!! (Japan) (PCSG00395)|PCSG00290
+Daisenryaku - Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen (Japan)|PCSG00504
+Daisenryaku Exceed II (Japan)|PCSG00372
+Daisenryaku Web (Japan)|PCSG00994
+Daitoshokan no Hitsujikai - Library Party (Japan)|PCSG00505
+Damascus Gear - Operation Osaka (USA)|PCSE01180
+Damascus Gear - Operation Tokyo (USA)|PCSE00518
+Danball Senki W (Japan)|PCSG00077
+Dance with Devils (Japan)|PCSG00807
+Dance with Devils My Carol (Japan)|PCSG01152
+Dangan-Ronpa 1-2 Reload (Japan)|PCSG00202
+Danganronpa - Trigger Happy Havoc (USA)|PCSE00261
+Danganronpa 2 - Goodbye Despair (USA)|PCSE00399
+Danganronpa Another Episode - Ultra Despair Girls (USA)|PCSE00692
+Danganronpa V3 - Killing Harmony (USA)|PCSE01100
+DanMachi de Shooting wa Machigatteiru Darou ka (Japan)|PCSG01186
+Daredemo Shodan ni Nareru Igo Kyoushitsu (Japan)|PCSG01017
+Darius Burst Chronicle Saviors (USA)|PCSE00792
+Dark Quest - Alliance (Japan)|PCSG00017
+Dark Quest 5 (Japan)|PCSG01200
+Darkest Dungeon (USA)|PCSE00919
+Date-A-Live Twin Edition - Rio Reincarnation (Japan)|PCSG00599
+Day D - Tower Rush (USA)|PCSE00424
+Day of the Tentacle Remastered (USA)|PCSE00658
+Dead Ahead - Zombie Warfare (USA)|PCSE01181
+Dead Nation (USA) (En,Fr,Es,Pt)|PCSA00151
+Dead or Alive 5 Plus (USA)|PCSE00235
+Dead or Alive Xtreme 3 - Venus - Free-to-Play Version (Asia) (En,Zh,Ko)|PCSH00281
+Deadbolt (USA)|PCSE00971
+Deadman's Cross (USA)|PCSE00578
+Death Mark (USA)|PCSE01279
+Deathmatch Village (USA) (En,Fr,Es)|PCSE00248
+Deception IV - Blood Ties (USA) (En,Ja,Fr,De)|PCSE00401
+Deception IV - The Nightmare Princess (USA)|PCSE00743
+Deemo - The Last Recital (USA)|PCSE01041
+Deep Ones (USA)|PCSE01219
+Deep Space Rush (USA) (En,Fr,De,Es,Ru)|PCSE01403
+Deer God, The (USA)|PCSE01021
+Defender's Quest - Valley of the Forgotten DX (USA)|PCSE01136
+Delta Strike - First Assault (USA)|PCSE00889
+Demetrios - The Big Cynical Adventure (USA)|PCSE01005
+Demon Gaze - Global Edition (Japan) (En,Ja)|PCSG00284
+Demon Gaze 2 Global Edition (Japan) (En,Ja)|PCSG01136
+Demon's Tier+ (Europe)|PCSB01437
+Dengeki Bunko - Fighting Climax (USA)|PCSE00639
+Dengeki Bunko - Fighting Climax Ignition (Japan)|PCSG00758
+Dennou Senki - Virtual On x Toaru Majutsu no Kinsho Mokuroku - Toaru Majutsu no Dennou Senki (Japan)|PCSG01089
+Desert Ashes (USA)|PCSE00542
+Destiny of Spirits (USA)|PCSA00106
+Devious Dungeon (USA)|PCSE01249
+Devious Dungeon 2 (USA)|PCSE01385
+Dex (USA)|PCSE00901
+Diabolik Lovers - Dark Fate (Japan)|PCSG00530
+Diabolik Lovers - Limited V Edition (Japan)|PCSG00272
+Diabolik Lovers - Lost Eden (Japan)|PCSG00910
+Diabolik Lovers - Lunatic Parade (Japan)|PCSG00826
+Diabolik Lovers - More, Blood - Limited V Edition (Japan)|PCSG00476
+Diabolik Lovers - Vandead Carnival (Japan)|PCSG00472
+Die!Die!Die! (USA)|PCSE00313
+Digimon Story Cyber Sleuth (USA)|PCSE00755
+Digimon Story Cyber Sleuth - Hacker's Memory (USA)|PCSE01171
+Digimon World - Next Order (Asia)|PCSH00261
+Dino Dini's Kick Off Revival (USA)|PCSE00820
+Disgaea 3 - Absence of Detention (USA)|PCSE00022
+Disgaea 4 - A Promise Revisited (USA)|PCSE00360
+Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es,Pt)|PCSA00110
+Distraint - Deluxe Edition (USA)|PCSE01159
+Divekick (USA)|PCSE00281
+DJ Max Technika Tune (USA)|PCSE00208
+DMM.com (Japan)|PCSC80021
+Doctor Who - The Eternity Clock (USA)|PCSE00103
+Dogimegi Inryoku-chan - Love & Peace (Japan)|PCSG00775
+Doki-Doki Universe (USA)|PCSA00117
+Dokuro (USA) (En,Ja,Fr,De,Es,It,Ko)|PCSE00124
+Don't Die, Mr. Robot! (USA) (En,Fr,De,Es,It)|PCSE00559
+Don't Starve - Giant Edition (USA)|PCSE00450
+Doodle Devil (USA)|PCSE00327
+Doodle God (USA) (En,Fr,De,Es,It)|PCSE00133
+Doodle Kingdom (USA)|PCSE00431
+Doukoku Soshite... Remastered (Japan)|PCSG01100
+Downwell (USA)|PCSE00873
+Dragon Ball Z - Battle of Z (USA) (En,Fr,Es,Pt)|PCSE00305
+Dragon Fantasy Book I (USA)|PCSE00217
+Dragon Fantasy Book II (USA)|PCSE00299
+Dragon Fin Soup (USA)|PCSE00447
+Dragon Quest Builders (USA)|PCSE00912
+Dragon Quest Heroes II - Futago no Ou to Yogen no Owari (Japan)|PCSG00820
+Dragon Sinker (USA)|PCSE01190
+Dragon's Crown (USA)|PCSE00019
+Dragon's Dogma Quest (Japan)|PCSG00212
+Dragonfly Chronicles (USA)|PCSE01360
+Dragons Online (Europe)|PCSB01124
+Dragooned (USA)|PCSE01193
+DramaFever (USA)|PCSE00795
+Dramatical Murder Re-Code (Japan)|PCSG00420
+Draw Slasher (USA)|PCSE00224
+Dream C Club Zero Portable (Japan)|PCSG00026
+Dreamlands, The - Aisling's Quest (USA)|PCSE01241
+Dreamwalker (USA)|PCSE01365
+Dreii (USA)|PCSE00841
+Drive Girls (USA)|PCSE01099
+Drowning (USA)|PCSE01363
+Du View (Europe)|PCSB00846
+Duck Souls+ (USA) (En,Ja,Fr,De,Es,Pt,Ru)|PCSE01439
+Duke Nukem 3D - Megaton Edition (USA) (En,Fr,De,Es,It,Pt)|PCSE00339
+Dull Grey (USA)|PCSE01510
+Dungeon Hunter - Alliance (USA)|PCSE00008
+Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate (Japan)|PCSG01002
+Dungeon Punks (USA)|PCSE00944
+Dungeon Travelers 2 - The Royal Library & The Royal Seal (USA)|PCSE00693
+Dungeon Travelers 2-2 - Yamiochi no Otome to Hajimari no Sho (Japan)|PCSG00841
+Durarara!! Relay (Japan)|PCSG00482
+Dustforce (USA) (En,Fr,De,Es,It)|PCSE00332
+Dying - Reborn (USA)|PCSE00984
+Dynamic Chord Feat. Apple-Polisher V Edition (Japan)|PCSG00915
+Dynamic Chord Feat. Kyohso V Edition (Japan)|PCSG00862
+Dynamic Chord Feat. Liar-S V Edition (Japan)|PCSG00861
+Dynamic Chord Feat. Reve Parfait V Edition (Japan)|PCSG00860
+Dynasty Warriors - Godseekers (USA)|PCSE00995
+Dynasty Warriors 8 - Empires - Free Alliances Version (USA)|PCSE00803
+Dynasty Warriors 8 - Xtreme Legends Complete Edition (USA)|PCSE00405
+Dynasty Warriors Next (USA)|PCSE00014
+E Channel - New Paint Park (Japan) (Muryou-ban)|PCSC00043
+Earth Defense Force 2 - Invaders from Planet Space (USA)|PCSE00710
+Earth Defense Force 2017 Portable (USA)|PCSE00209
+Ebikore+ Amagami (Japan)|PCSG00291
+Ecolibrium (USA) (En,Fr,Es,Pt)|PCSA00087
+Eiyuu Densetsu - Akatsuki no Kiseki (Japan)|PCSG01026
+Eiyuu Densetsu - Ao no Kiseki Evolution (Japan)|PCSG00246
+Eiyuu Densetsu - Sen no Kiseki (Japan)|PCSG00195
+Eiyuu Densetsu - Sen no Kiseki II (Japan)|PCSG00354
+Eiyuu Senki (Japan)|PCSG00316
+Eledive (Japan)|PCSG00088
+Element4l (USA) (En,Es,Pt)|PCSE00610
+Emerald Shores (USA)|PCSE00859
+Emma - Lost in Memories (USA) (En,Fr,De,Es,It)|PCSE01475
+End Sleep (Japan)|PCSG00963
+Energy Balance (USA)|PCSE01123
+Energy Cycle (USA)|PCSE01124
+Energy Cycle Edge (USA)|PCSE01330
+Energy Invasion (USA)|PCSE01192
+Enkan no Memoria - Kakera Tomoshi (Japan)|PCSG01167
+Entwined (USA) (En,Fr,Es,Pt)|PCSA00140
+EP0734-PCSB01316_00-G000000000001226 (Europe)|PCSB01316
+EP0896-PCSB01421_00-RATAGAMEBLINDMEN (Europe)|PCSB01421
+EP1063-PCSB01377_00-G000000000001287 (Europe)|PCSB01377
+EP1661-PCSB01441_00-G000000000001351 (Europe)|PCSB01441
+EP2363-PCSB01387_00-G000000000001297 (Europe)|PCSB01387
+EP3540-PCSB01444_00-G000000000001354 (Europe)|PCSB01444
+EP3597-PCSB01432_00-G000000000001342 (Europe)|PCSB01432
+EP4383-PCSB00236_00-JAZZTRUMPFREEV10 (Europe)|PCSB00236
+EP9000-PCSF00191_00-QFORCERATCH00001 (Europe)|PCSF00191
+Ephemeral - Fantasy on Dark (Japan)|PCSG01134
+Epic Word Search Collection (USA)|PCSE01465
+Epic Word Search Collection 2 (Europe)|PCSB01458
+Escape Plan (USA) (En,Fr,Es,Pt)|PCSA00004
+EscapeVektor (USA)|PCSE00095
+Ethan - Meteor Hunter (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)|PCSE00395
+Eufloria HD (USA)|PCSE00366
+Eve - Burst Error R (Japan)|PCSG00817
+EVE Rebirth Terror (Japan)|PCSG01249
+Everybody's Golf (Europe)|PCSF00006
+Exile's End (USA)|PCSE00941
+Exist Archive - The Other Side of the Sky (USA)|PCSE00883
+Explosive Jake (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Da,Zh,Ko,Pl,Ru,Tr)|PCSE01454
+F1 2011 (USA)|PCSE00002
+Factotum 90 (USA)|PCSE01051
+Fairune (USA)|PCSE01048
+Fallen Legion - Flames of Rebellion (USA)|PCSE00955
+Fantasy Hero - Unsigned Legacy (USA)|PCSE00536
+Farming Simulator (Europe)|PCSB00333
+Farming Simulator 14 (USA)|PCSE00419
+Farming Simulator 16 (USA)|PCSE00768
+Farming Simulator 18 (USA)|PCSE01035
+Fast Striker (USA)|PCSE01334
+Fat City (USA)|PCSE00741
+Fat Princess - Piece of Cake (USA) (En,Fr,Es,Pt)|PCSA00156
+Fate-Extella (USA)|PCSE00928
+Fate-Extella Link (USA)|PCSE01254
+Fate-hollow ataraxia (Japan)|PCSG00386
+Fate-Stay Night - Realta Nua (Japan)|PCSG00122
+Fernz Gate (USA)|PCSE01282
+Fez (Japan, USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko)|PCSE00404
+Field (Japan)|PCSG00022
+Fieldrunners 2 (USA)|PCSE00266
+FIFA 13 (USA)|PCSE00093
+FIFA 14 (USA)|PCSE00263
+FIFA 15 (USA)|PCSE00481
+FIFA Football (France)|PCSB00052
+Fifty Words by POWGI (USA)|PCSE01431
+Fill-a-Pix - Phil's Epic Adventure (USA)|PCSE01255
+Final Fantasy X HD Remaster (USA)|PCSE00293
+Final Fantasy X-2 HD Remaster (USA)|PCSE00283
+Final Horizon (USA) (En,Ja,Fr,De,Es,It)|PCSE00504
+Fireworks (USA) (En,Fr,Es)|PCSA00037
+Flame Over (USA) (En,Fr,De,Es,It)|PCSE00566
+Flickr (USA) (En,Fr,De,Es,It)|PCSA00046
+Floating Cloud God Saves the Pilgrims in HD! (USA)|PCSE00260
+Floral Flowlove (Japan)|PCSG01202
+flOw (USA) (En,Fr,Es,Pt)|PCSA00135
+Flower (USA) (En,Fr,Es)|PCSA00114
+Flowers (Japan)|PCSG00459
+Flowers - Le Volume sur Hiver (Japan)|PCSG01187
+Flowers - Natsu-Hen (Japan)|PCSG00739
+Flowers - Toki-Hen (Japan)|PCSG00981
+Flyhunter Origins (USA)|PCSE00297
+Flying Hamster HD (USA) (En,Ja,Fr,De,Es,It)|PCSE00257
+Foosball 2012 (USA)|PCSE00039
+Football Game (USA) (En,Fr,De,Es)|PCSE01443
+Forma.8 (USA)|PCSE00797
+Fort Defense (USA)|PCSE00321
+Fort Defense North Menace (USA)|PCSE00379
+Fortune Street - Dragon Quest & Final Fantasy 30th Anniversary (Asia)|PCSH10065
+Foul Play (USA)|PCSE00484
+Four Elements Adventure (Asia) (En,Zh)|PCSH00246
+Foursquare (USA)|PCSA00047
+FoxyLand (USA) (En,Ja,Fr,De,Es,Ru)|PCSE01437
+FoxyLand 2 (USA) (En,Ja,Fr,De,Es,Ru)|PCSE01438
+Frane - Dragons' Odyssey (USA)|PCSE01380
+Freedom Wars (USA) (En,Fr,Es)|PCSA00147
+Friend to Lover (Japan)|PCSG00519
+Frobisher Says! (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)|PCSA00050
+Frozen Synapse Prime (USA) (En,Ja,Fr,De,Es,It)|PCSE00528
+Fruit Ninja (USA)|PCSE00229
+Full Throttle Remastered (USA)|PCSE01000
+FullBlast (USA)|PCSE01261
+Funk of Titans (USA)|PCSE00839
+Furmins (USA)|PCSE00111
+Furuiro Meikyuu Rondo - La Roue de Fortune (Japan)|PCSG00227
+Furuki Yoki Jidai no Boukentan (Japan)|PCSG00922
+FuruKiss (Japan)|PCSG01260
+Furwind (USA)|PCSE01382
+Fushigi no Gensoukyou TOD - Reloaded (Japan)|PCSG00985
+Futagoza no Paradox (Japan)|PCSG01085
+Futuridium EP Deluxe (USA)|PCSE00495
+Fuuraiki 3 (Japan)|PCSG00493
+Gaiam TV - The Transformation Network (USA)|PCSE00329
+Gakuen Club - Himitsu no Nightclub (Japan)|PCSG01065
+Gal Gun - Double Peace (USA)|PCSE00881
+Gal Gunvolt (Japan)|PCSG00704
+Galtia V Edition (Japan)|PCSG01151
+Game One (France)|PCSB00627
+Ganbare! Super Strikers (USA) (En,Ja,Fr,De,Es,It,Ru)|PCSE01440
+Garou - Mark of the Wolves (USA)|PCSE00958
+Geki Jigen Tag - Blanc + Neptune VS Zombie Gundan (Japan)|PCSG00578
+Geki Yaba Runner (USA)|PCSE00981
+Gekijouban Madoka Magicka - The Battle Pentagram (Japan)|PCSG00214
+Gem Legends (USA)|PCSE00765
+Gem Smashers (USA)|PCSE01063
+Gendai Daisenryaku 2016 - Chitsujo no Houkai - Haken Kokka Shittsui (Japan)|PCSG00373
+Genimus (Japan)|PCSG00256
+Genkai Tokki - Moero Chronicle (Japan)|PCSG00346
+Genkai Tokki - Moero Crystal (Asia)|PCSH00301
+Genkai Tokki - Seven Pirates (Japan)|PCSG00882
+Genkai Tokki Monster Monpiece (Japan)|PCSG00148
+Geometry Wars 3 - Dimensions Evolved (USA)|PCSE00655
+Germinator (USA)|PCSE00228
+Get Off My Lawn! (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)|PCSE00421
+Geten no Hana with Yume Akari - Aizouban (Japan)|PCSG00921
+Getsuei Gakuen - Kou (Japan)|PCSG90098
+Getsuei no Kusari - Kouran Moratorium (Japan)|PCSG00991
+Getsuei no Kusari - Sakuran Paranoia (Japan)|PCSG00794
+Ghoulboy - Dark Sword of Goblin (USA)|PCSE01340
+Ginsei Igo - Next Generation (Japan)|PCSG00419
+Ginsei Shogi - Kyoutendo Toufuu Raijin (Japan)|PCSG00084
+Gintama Rumble (Japan)|PCSG01073
+Girls und Panzer - Senshado, Kiwamemasu! (Japan)|PCSG00339
+Gnosia (Japan)|PCSG01277
+Gochuumon wa Usagi Desu ka - Wonderful Party! (Japan)|PCSG00786
+God Eater 2 - Rage Burst (USA)|PCSE00789
+God Eater Off Shot Vol.2 - Lindow Version (Japan)|PCSG00720
+God Eater Off Shot Vol.3 - Alisa Version (Japan)|PCSG00721
+God Eater Off Shot Vol.4 - Soma Schicksal Version (Japan)|PCSG00722
+God Eater Off Shot Vol.5 - Shio Version (Japan)|PCSG00723
+God Eater Off Shot Vol.6 - Kota Fujiki Version (Japan)|PCSG00724
+God Eater Off Shot Vol.7 - Sakuya Tachibana Version (Japan)|PCSG00725
+God Eater Resurrection (USA)|PCSE00801
+God of War Collection (USA) (En,Fr,Es)|PCSA00126
+God Wars - Future Past (USA)|PCSE01026
+God Wars - The Complete Legend (Asia)|PCSH10126
+Gods of Almagest (USA)|PCSE01503
+Goes! (Japan)|PCSG00367
+Goetia - The Infinite Tower (Japan)|PCSG01117
+Golden Time - Vivid Memories (Japan)|PCSG00218
+Grand Kingdom (USA)|PCSE00879
+Grand Theft Auto - iFruit (USA) (En,Fr,Es,Pt)|PCSE00348
+Grass Cutter (USA)|PCSE01408
+Grass Cutter - Mutated Lawns (Europe) (En,Fr,De,Es,It,Ru)|PCSB01372
+Gravity Badgers (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)|PCSE00487
+Gravity Crash Ultra (USA) (En,Fr,Es,Pt)|PCSE00439
+Gravity Duck (USA)|PCSE01384
+Gravity Rush (USA) (En,Fr,Es,Pt)|PCSA00011
+Green Game - Timeswapper (USA)|PCSE00875
+Grim Fandango Remastered (USA) (En,Fr,De,Es,It,Pt)|PCSE00547
+Grisaia no Kajitsu - Le Fruit de la Grisaia (Japan)|PCSG00206
+Grisaia no Kajitsu - Side Episode (Japan)|PCSG01095
+Grisaia no Kajitsu Spinout! - Idol Mahou Shoujo ChiruChiru Michiru (Japan)|PCSG00620
+Grisaia no Meikyuu - Le Labyrinthe de la Grisaia (Japan)|PCSG00421
+Grisaia no Rakuen - Le Eden de la Grisaia (Japan)|PCSG00508
+Grisaia Phantom Trigger 01 & 02 (Japan)|PCSG01149
+Grisaia Phantom Trigger 03 & 04 (Japan)|PCSG01218
+Guacamelee! (USA) (En,Ja,Fr,De,Es,It,Pt)|PCSE00033
+Guard Duty (USA) (En,Fr,De,Es)|PCSE01450
+Guardian Hearts Online (Japan)|PCSG00066
+Guilty Gear XX Accent Core Plus R (USA) (En,Ja,Fr,De,Es,It,Pt)|PCSE00137
+Gun Gun Pixies (Japan)|PCSG01013
+Gundam Battle Destiny (Japan)|PCSG00040
+Gundam Breaker (Japan)|PCSG00126
+Gundam Breaker 2 (Asia)|PCSH00132
+Gundam Breaker 3 - Break Edition (Asia) (En)|PCSH10042
+Gundam Conquest V (Japan)|PCSG00657
+Gundemoniums (USA)|PCSE01283
+Gunhouse (USA)|PCSE01157
+Gunka o Haita Neko (Japan)|PCSG01289
+Gunslugs (USA)|PCSE00340
+Habroxia (USA)|PCSE01396
+Habroxia 2 (Europe)|PCSB01466
+Hakuisei Aijou Izonshou (Japan)|PCSG00577
+Hakuisei Renai Shoukougun Re-Therapy (Japan)|PCSG01275
+Hakuoki - Edo Blossoms (USA)|PCSE01001
+Hakuoki - Kyoto Winds (USA)|PCSE00973
+Hakuouki - Kyouka Roku (Japan)|PCSG00217
+Hakuouki SSL - Sweet School Life (Japan)|PCSG00297
+Halloween Forever (USA)|PCSE01258
+Hanasaki Work Spring! (Japan)|PCSG01024
+Hanasaku Manimani (Japan)|PCSG00366
+Hanayaka Nari Waga Ichizoku Modern Nostalgie (Japan)|PCSG00470
+Hanayamata - Yosakoi Live! (Japan)|PCSG00451
+Handball 16 (USA)|PCSE00681
+Harukanaru Toki no Naka de 3 Ultimate (Japan)|PCSG00992
+Harukanaru Toki no Naka de 6 (Japan)|PCSG00542
+Harukanaru Toki no Naka de 6 - Gentou Rondo (Japan)|PCSG00975
+Harukanaru Toki no Naka de Ultimate (Japan)|PCSG01157
+Haruoto Alice & Gram - Snow Drop (Japan)|PCSG01252
+Harvest OverRay (Japan)|PCSG00559
+Hatoful Boyfriend (USA)|PCSE00653
+Hatoful Boyfriend - Holiday Star (USA)|PCSE00776
+Hatsujou Sprinkle (Japan)|PCSG01229
+Hatsune Miku - Project Diva F (USA)|PCSE00326
+Hatsune Miku - Project Diva F 2nd (USA)|PCSE00434
+Hatsune Miku - Project Diva X (USA)|PCSE00867
+Hatsuru Kotonaki Mirai Yori (Japan)|PCSG00988
+Hatsuyuki Sakura (Japan)|PCSG00997
+HD Adventures of Rotating Octopus Character, The (USA)|PCSE00259
+Heiligenstadt no Uta (Japan)|PCSG01070
+Helldivers (USA)|PCSA00134
+Hello Lady! Superior Dynamis (Japan)|PCSG01039
+Heroes of Loot (USA)|PCSE00666
+Heroes Trials (USA)|PCSE01256
+Hideboh - Tap Dance Hero (Japan)|PCSG00388
+High School DxD - New Fight (Japan)|PCSG00406
+Higurashi no Naku Koro ni Sui (Japan)|PCSG00517
+Himawari - Pebble in the Sky (Japan)|PCSG00639
+Himno (USA)|PCSE01427
+Himoutou! Umaru-Chan - Himoutou Ikusei Keikaku (Japan)|PCSG00688
+Hinemosu Shikihime (Japan)|PCSG01239
+History - Legends of War (Europe)|PCSB00198
+Hitman GO - Definitive Edition (USA)|PCSE00846
+Hitotsu Tobashi Renai V (Japan)|PCSG00506
+Hoggy 2 (USA)|PCSE01383
+Hohokum (USA) (En,Fr,Es,Pt)|PCSA00123
+Hole New World, A (USA) (En,Fr,De,Es,It)|PCSE01095
+Home - A Unique Horror Adventure (USA)|PCSE00533
+Hoshi Ori Yume Mirai - Converted Edition (Japan)|PCSG00926
+Hot Shots Golf - World Invitational (USA)|PCSA00009
+Hotchkiss (Japan)|PCSG00200
+Hotline Miami (USA) (En,Fr,De,Es,Pt)|PCSE00249
+Hotline Miami - Collected Edition (Japan)|PCSG00601
+Hotline Miami 2 - Wrong Number (USA) (En,Fr,De,Es,Pt)|PCSE00402
+House in Fata Morgana, The (USA)|PCSE01305
+HP0700-PCSH10041_00-GUNDAMBREAKER3VM (Asia)|PCSH10041
+HP1422-PCSH10053_00-0000000000000000 (Asia)|PCSH10053
+HP2005-PCSH10171_00-PICAPIXPIECESASI (Asia)|PCSH10171
+HP2005-PCSH10172_00-PICAPIXCLASSICAS (Asia)|PCSH10172
+HP2005-PCSH10173_00-FILLAPIXPHEAASIA (Asia)|PCSH10173
+HP2005-PCSH10174_00-BLOCKAPIXDELUXE0 (Asia)|PCSH10174
+HP2005-PCSH10198_00-GUARDDUTYASIA000 (Asia)|PCSH10198
+HP2005-PCSH10201_00-SUPERDESTRONAUTL (Asia)|PCSH10201
+HP2005-PCSH10208_00-LINKAPIXDELUXE00 (Asia)|PCSH10208
+HP2005-PCSH10214_00-PICAPIXCLASSIC20 (Asia)|PCSH10214
+HP2005-PCSH10224_00-MILESKILO0000000 (Asia)|PCSH10224
+HP2005-PCSH10235_00-BLINDMEN00000000 (Asia)|PCSH10235
+HP2005-PCSH10236_00-THUNDERPAW000000 (Asia)|PCSH10236
+HP2005-PCSH10238_00-EPICWORDSEARCH00 (Asia)|PCSH10238
+HP2005-PCSH10240_00-CRYPTOBYPOWGI000 (Asia)|PCSH10240
+HP2005-PCSH10242_00-METROPOLISLUX000 (Asia)|PCSH10242
+HP2005-PCSH10243_00-DEEPONES00000000 (Asia)|PCSH10243
+HP2005-PCSH10245_00-BUCKETKNIGHT0000 (Asia)|PCSH10245
+HP2005-PCSH10248_00-TASKFORCEKAMPAS0 (Asia)|PCSH10248
+HP2005-PCSH10250_00-TWINBREAKER00000 (Asia)|PCSH10250
+HP2005-PCSH10251_00-DUCKSOULSPLUS000 (Asia)|PCSH10251
+HP2005-PCSH10256_00-RANDOMHEROES0000 (Asia)|PCSH10256
+HP2005-PCSH10294_00-SIGI000000000000 (Asia)|PCSH10294
+HP2005-PCSH10295_00-DROWNING00000000 (Asia)|PCSH10295
+HP2005-PCSH10296_00-PLANETRIX1300000 (Asia)|PCSH10296
+HP2005-PCSH10297_00-BREEDERHOMEGROWN (Asia)|PCSH10297
+HP2005-PCSH10298_00-AWINTERSDAYDREAM (Asia)|PCSH10298
+HP2005-PCSH10299_00-TKTN000000000000 (Asia)|PCSH10299
+HP2005-PCSH10320_00-BROTHERHOODUNITE (Asia)|PCSH10320
+htoLNiQ - The Firefly Diary (USA)|PCSE00527
+HTR+ Slot Car Simulation (USA)|PCSE00551
+Hue (USA)|PCSE00996
+Hulu (Japan) (PCSG01060)|PCSG01060
+Hulu (Japan) (PCSG80007)|PCSG80007
+Hulu Plus (USA)|PCSE00426
+Hungry Giraffe (Europe)|PCSB00246
+Hungry Horde, The (USA) (En,Fr,Es,Pt)|PCSA00563
+Hustle Kings (USA) (En,Fr,Es,Pt)|PCSA00007
+Hyakka Hyakurou - Sengoku Ninpoujou (Japan)|PCSG00713
+Hyakka Ryouran Elixir - Record of Torenia Revival (Japan)|PCSG00518
+Hyakka Yakou (Japan)|PCSG00477
+Hyperdevotion Noire - Goddess Black Heart (USA)|PCSE00568
+Hyperdimension Neptunia - Producing Perfection (USA)|PCSE00400
+Hyperdimension Neptunia PP - Producing Perfection (Europe)|PCSB00515
+Hyperdimension Neptunia Re;Birth1 (USA)|PCSE00443
+Hyperdimension Neptunia Re;Birth2 - Sisters Generation (USA)|PCSE00508
+Hyperdimension Neptunia Re;Birth3 - V Generation (USA)|PCSE00661
+Hyperdimension Neptunia U - Action Unleashed (USA)|PCSE00588
+I Am the Hero (USA)|PCSE01188
+I and Me (USA)|PCSE01358
+IA-VT - Colorful (Japan)|PCSG00355
+Ice Cream Surfer (USA)|PCSE01245
+Iconoclasts (USA)|PCSE01177
+id - Rebirth Session (Japan)|PCSG00965
+Idol Death Game TV (Japan)|PCSG00865
+IDOLiSH7 Twelve Fantasia! (Japan)|PCSG01094
+Idolmaster, The - Music Clips (Japan)|PCSG90206
+Idolmaster, The - Must Songs - Aka-ban (Japan)|PCSG00677
+Idolmaster, The - Must Songs - Ao-ban (Japan)|PCSG00678
+Ikemen Bakumatsu - Unmei no Koi (Japan)|PCSG01020
+Ikemen Sengoku - Toki o Kakeru Koi - Aratanaru Deai (Japan)|PCSG01063
+Ikenie to Yuki no Setsuna (Japan)|PCSG00756
+iKnow! (Japan)|PCSC80028
+Illusion of L'Phalcia (USA)|PCSE01418
+Imaginstruments (USA) (En,Fr,Es,Pt)|PCSA00113
+Imasugu Oniichan ni Imouto Datte Iitai! (Japan)|PCSG00337
+Indoor Sports World (USA)|PCSE00041
+Infinita Strada (Japan)|?
+Infinita Strada Hana (Asia) (En,Ja,Zh)|PCSH00278
+Infinite Stratos 2 - Ignition Hearts (Japan)|PCSG00270
+Infinite Stratos 2 - Love and Purge (Japan)|PCSG00584
+Infinity App (Europe)|PCSB00837
+Injustice - Gods Among Us - Ultimate Edition (USA) (En,Fr,Es,Pt)|PCSE00271
+InkSplosion (USA)|PCSE01237
+International Snooker (Europe)|PCSB00157
+Invizimals - Hidden Challenges (USA)|PCSA00122
+Invizimals - Nueva Alianza (Spain)|PCSF00533
+Invizimals - The Alliance (USA) (En,Fr,Es,Pt)|PCSA00137
+Invizimals - The Resistance (USA)|PCSA00552
+Invokers Tournament (USA)|PCSE00637
+iO (USA)|PCSE00876
+Iron Sea Defenders (USA)|PCSE00966
+Iron Snout (USA)|PCSE01369
+Island (Japan)|PCSG01000
+It's Spring Again (USA)|PCSE01119
+Itadaki Street - Dragon Quest & Final Fantasy 30th Anniversary (Japan)|PCSG00932
+Iwaihime - Matsuri (Japan)|PCSG01083
+IxSHE Tell (Japan)|PCSG01297
+J-Stars Victory Vs (Japan)|PCSG00300
+J-Stars Victory Vs+ (USA)|PCSE00595
+Jack N' Jill DX (USA)|PCSE01287
+Jacob Jones and the Bigfoot Mystery (USA) (En,Fr,Es,Pt)|PCSA00108
+Jak 3 (Europe)|PCSF00250
+Jak and Daxter - The Precursor Legacy (Europe)|PCSF00248
+Jak and Daxter Collection (USA) (En,Fr,Es)|PCSA00080
+Jak II - Renegade (Europe)|PCSF00249
+Jet Car Stunts (USA) (En,Fr,De,Es,It)|PCSE00393
+Jet Set Radio (USA) (En,Fr,De,Es)|PCSE00088
+Jetpack Joyride Deluxe (USA)|PCSE00537
+Jikkyou Powerful Pro Yakyuu - Success Special (Japan)|PCSG00691
+Jikkyou Powerful Pro Yakyuu 2013 (Japan)|PCSG00207
+Jikkyou Powerful Pro Yakyuu 2014 (Japan)|PCSG00416
+Jikkyou Powerful Pro Yakyuu 2016 (Japan)|PCSG00748
+Jikkyou Powerful Pro Yakyuu 2018 (Japan)|PCSG01164
+Jikkyou Powerful Pro Yakyuu Championship 2017 (Japan)|PCSG01045
+Jikkyou Powerful Pro Yakyuu Championship 2018 (Japan)|PCSG01219
+Joe Danger (USA) (En,Fr,Es)|PCSE00478
+Joe Danger 2 - The Movie (USA) (En,Fr,Es)|PCSE00477
+Joysound TV Plus (Japan)|PCSG00243
+JP0007-PCSG00662_00-M5MG024TAKKNMAIN (Japan)|PCSG00662
+JP0031-PCSG00448_00-IFMARGINALNUMBER (Japan)|PCSG00448
+JP0031-PCSG00468_00-PSYCHEDELICAOFBB (Japan)|PCSG00468
+JP0031-PCSG00485_00-IFVITAZUISOUROKU (Japan)|PCSG00485
+JP0031-PCSG00576_00-HANAYAKAGENTOU01 (Japan)|PCSG00576
+JP0031-PCSG00605_00-IFVITAREIMEIROKU (Japan)|PCSG00605
+JP0031-PCSG00629_00-HAKUOKISHINKAI01 (Japan)|PCSG00629
+JP0031-PCSG00635_00-JUUZAENGIPORTING (Japan)|PCSG00635
+JP0031-PCSG00653_00-YUNOHANASPRING00 (Japan)|PCSG00653
+JP0031-PCSG00790_00-WANDOFFORTUNER00 (Japan)|PCSG00790
+JP0031-PCSG00808_00-TIERBLADE0000000 (Japan)|PCSG00808
+JP0031-PCSG00811_00-HAKUOKISHINKAI02 (Japan)|PCSG00811
+JP0031-PCSG00812_00-PSYCHEDELICAOFSH (Japan)|PCSG00812
+JP0031-PCSG00853_00-PERIODCUBE000000 (Japan)|PCSG00853
+JP0031-PCSG00855_00-HANAOBOROOTOMATE (Japan)|PCSG00855
+JP0031-PCSG00930_00-IFVITAYUGIROKU00 (Japan)|PCSG00930
+JP0031-PCSG01008_00-MG4ROADTOGALAXY0 (Japan)|PCSG01008
+JP0031-PCSG01068_00-NEOANGELIQUE0000 (Japan)|PCSG01068
+JP0031-PCSG01075_00-TIERBLADEFD00000 (Japan)|PCSG01075
+JP0031-PCSG01131_00-FORTISSIMOPSVITA (Japan)|PCSG01131
+JP0031-PCSG01158_00-KURENAINOHOMURA1 (Japan)|PCSG01158
+JP0078-PCSG01291_00-LUCKSLINGERJAPAN (Japan)|PCSG01291
+JP0078-PCSG01313_00-METAGALJAPAN0000 (Japan)|PCSG01313
+JP0078-PCSG01323_00-TASKFORCEKAMPAS0 (Japan)|PCSG01323
+JP0078-PCSG01326_00-XENOCRISIS000000 (Japan)|PCSG01326
+JP0078-PCSG01331_00-TKTN000000000000 (Japan)|PCSG01331
+JP0078-PCSG01336_00-BROTHERHOODUNITE (Japan)|PCSG01336
+JP0082-PCSG00872_00-TWDS20000000GAME (Japan)|PCSG00872
+JP0095-PCSG00596_00-0000000000000000 (Japan)|PCSG00596
+JP0106-PCSG00251_00-SM7WXLGAMEJP0000 (Japan)|PCSG00251
+JP0106-PCSG00771_00-DOAX300000000000 (Japan)|PCSG00771
+JP0116-PCSG00345_00-KONOUTA000000000 (Japan)|PCSG00345
+JP0117-PCSG00370_00-DRRRALLEYVMAIN00 (Japan)|PCSG00370
+JP0177-PCSG00198_00-SAKATSUKUPSV2013 (Japan)|PCSG00198
+JP0380-PCSG01197_00-CAFECUILLERE0000 (Japan)|PCSG01197
+JP0393-PCSG00779_00-DSP300000PACKAGE (Japan)|PCSG00779
+JP0393-PCSG00945_00-ARASI00DLPACKAGE (Japan)|PCSG00945
+JP0393-PCSG01104_00-SENGODX000000000 (Japan)|PCSG01104
+JP0404-PCSG01246_00-GALLERIA00000001 (Japan)|PCSG01246
+JP0549-PCSG00529_00-JUSTYNASTY000000 (Japan)|PCSG00529
+JP0549-PCSG00733_00-MELTYMOMENT00000 (Japan)|PCSG00733
+JP0578-PCSG00595_00-KAMIGAMIIF000000 (Japan)|PCSG00595
+JP0700-PCSG00670_00-GIRLFRIENDBETA00 (Japan)|PCSG00670
+JP0700-PCSG00791_00-ASTERISK00000000 (Japan)|PCSG00791
+JP0741-PCSG01294_00-GEROKASUZZZZZZZZ (Japan)|PCSG01294
+JP0741-PCSG01325_00-AIKISSZZZZZZZZZZ (Japan)|PCSG01325
+JP0745-PCSG00360_00-FPB060A000000000 (Japan)|PCSG00360
+JP1138-PCSG01011_00-MATATABI00000002 (Japan)|PCSG01011
+JP1485-PCSG00753_00-MYSTERIATRC2016K (Japan)|PCSG00753
+Judas Code (Japan)|PCSG00390
+Jungle Rumble - Freedom, Happiness, and Bananas (USA) (En,Ja)|PCSE00594
+Just a Phrase by POWGI (USA)|PCSE01436
+Just Ignore Them (USA) (En,Fr,De,Es)|PCSE01405
+Kadenz Fermata - Akkord - Fortissimo (Japan)|PCSG00381
+Kaeru Batake de Tsukamaete (Japan)|PCSG00501
+Kagero - Darkside Princess (Japan)|PCSG00304
+Kagero - Mou Hitori no Princess (Japan)|PCSG00565
+KairiseiMA (Japan)|PCSG00750
+Kajiri Kamui Kagura - Akebono no Hikari (Japan)|PCSG00172
+Kaku-San-Sei Million Arthur (Japan)|PCSG00182
+Kamaitachi no Yoru - Rinne Saisei (Japan)|PCSG01007
+Kamen Rider - Battride War Sousei (Japan)|PCSG00675
+Kami Jijigen Game Neptune Re;Birth 3 - V Century (Japan)|PCSG00486
+Kamidanomi Shisugite Ore no Mirai ga Yabai (Japan)|PCSG01106
+KanColle Kai (Japan)|PCSG00684
+Kangokutou Mary-Skelter (Japan)|PCSG00898
+Kannagi no Mori - Satsukiame Tsuzuri (Japan)|PCSG01268
+Kanojo Step (Japan)|PCSG01182
+Karigurashi Renai (Japan)|PCSG01253
+Karumaruka - Circle (Japan)|PCSG01044
+Katahane - An' Call Belle (Japan)|PCSG01153
+Katamari Damacy No-Vita (Japan)|PCSG00018
+Kawaii Deathu Desu (Japan)|PCSG01332
+Kazoku Keikaku - Re-Tsumugu Ito (Japan)|PCSG90145
+Keeper of 4 Elements, The (USA)|PCSE00441
+Ken ga Kimi - Momoyo Tsuzuri (Japan)|PCSG00960
+Ken ga Kimi for V (Japan)|PCSG00553
+Kenka Banchou Otome (Japan)|PCSG00829
+Kenka Banchou Otome - 2nd Rumble!! (Japan)|PCSG01241
+Kenka Banchou Otome - Kanzen Muketsu no My Honey (Japan)|PCSG01042
+Kick & Fennick (USA) (En,Ja,Fr,De,Es,It)|PCSE00485
+KickBeat (USA)|PCSE00113
+Kid Tripp (USA)|PCSE01420
+Kidou Senshi Gundam - Battle Fortress (Japan)|PCSG00579
+Kidou Senshi Gundam - Battle Operation Support Appli (Japan)|PCSG00191
+Kidou Senshi Gundam - Extreme VS Force (Japan)|PCSG00738
+Kilka Card Gods (USA) (En,Fr,Es,Pt)|PCSE00473
+Killer Dolls United (USA)|PCSE01515
+Killzone - Mercenary (USA)|PCSA00107
+Kimi no Hitomi ni Hit Me (Japan)|PCSG01087
+Kimi o Aogi Otome wa Hime ni (Japan)|PCSG00913
+Kin'iro Loveriche (Japan)|PCSG01318
+Kin'iro no Corda - Octave (Japan)|PCSG01245
+Kin'iro no Corda 4 (Japan)|PCSG00774
+King Oddball (USA)|PCSE00315
+King of Fighters '97, The - Global Match (USA)|PCSE01224
+Kiniro no Corda 2 ff (Japan)|PCSG01124
+Kiniro no Corda 3 - Another Sky feat. Jinnan - Shiseikan - Amane Gakuen (Japan)|PCSG01212
+Kiniro no Corda 3 - Full Voice Special (Japan)|PCSG01211
+Kiss Ato (Japan)|PCSG00742
+KissBell (Japan)|PCSG00413
+KLAP!! - Kind Love and Punish (Japan)|PCSG00478
+KLAP!! - Kind Love and Punish - Fun Party (Japan)|PCSG00970
+Knight Solitaire (USA)|PCSE00752
+Knightin'+ (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Pl,Ru)|PCSE01444
+Knobswitch (USA)|PCSE00957
+Knock-Knock (USA)|PCSE00849
+Knytt Underground (USA) (En,Fr,Es)|PCSE00092
+Koezaru wa Akai Hana - Koi wa Tsuki ni Michibikareru (Japan)|PCSG00850
+Koi (USA)|PCSE01040
+Koisuru Otome to Shugo no Tate - Bara no Seibo (Japan)|PCSG01299
+Kono Aozora ni Yakusoku o (Japan)|PCSG00761
+Kono Oozora ni, Tsubasa o Hirogete - Cruise Sign (Japan)|PCSG00357
+Kono Suba - Attack of the Destroyer (Japan)|PCSG01093
+Kono Subarashii Sekai ni Shukufuku o! - Kono Damegami ni Kyouiku o! (Japan)|PCSG01265
+Kono Subarashii Sekai ni Shukufuku o! Kono Yokubukai Game ni Shinpan wo! (Japan)|PCSG01028
+Kono Subarashii Sekai ni Syukufuku wo! Kibou no Meikyuu to Tsudoishi Boukenshatachi (Japan)|PCSG01258
+Koroshiya to Strawberry (Japan)|PCSG01132
+Koshotengai no Hashihime Noma (Japan)|PCSG01213
+KP5014-PCSH00061_00-SGFD20000000VITA (Korea)|PCSH00061
+KP5014-PCSH00062_00-STEINSGATEVITA01 (Korea)|PCSH00062
+KP5014-PCSH00063_00-STEINSGATEHDVITA (Korea)|PCSH00063
+KP5014-PCSH00165_00-VITAROBOELITE000 (Korea)|PCSH00165
+KP5014-PCSH00259_00-STEINSGATEZEROPV (Korea)|PCSH00259
+Krinkle Krusher (USA)|PCSE00585
+Kud Wafter - Converted Edition (Japan)|PCSG00273
+Kujiragami no Tearstilla (Japan)|PCSG00894
+Kung Fu Rabbit (USA) (En,Fr,Es,Pt)|PCSE00256
+Kung Fury - Street Rage (USA)|PCSE01036
+Kurogane Kaikijong (Japan)|PCSG00609
+Kurogane Kaikitan - Ichi-go Ichi-e (Japan)|PCSG00641
+Kyokugen Dasshutsu ADV - Zennin Shiboudesu (Japan)|PCSG00020
+Kyoukai no Shirayuki (Japan)|PCSG00787
+La-Mulana EX (USA) (En,Ja,Fr,De,Es,Ru)|PCSE00567
+Lara Croft GO (USA)|PCSE00985
+Laser Disco Defenders (USA)|PCSE00902
+Last Blade 2, The (USA)|PCSE00848
+Last Wings (USA)|PCSE00856
+League of Evil (USA)|PCSE01085
+Legend of Dark Witch, The (USA)|PCSE01049
+Legend of Heroes, The - Ao no Kiseki Evolution (Asia)|PCSH10113
+Legend of Heroes, The - Sora no Kiseki FC Evolution (Asia)|PCSH00178
+Legend of Heroes, The - Sora No Kiseki SC Evolution (Asia)|PCSH10060
+Legend of Heroes, The - Sora No Kiseki the 3rd Evolution (Asia)|PCSH10082
+Legend of Heroes, The - Trails of Cold Steel (USA)|PCSE00786
+Legend of Heroes, The - Trails of Cold Steel II (USA)|PCSE00896
+Legend of Heroes, The - Zero no Kiseki Evolution (Asia)|PCSH10111
+Legend of the Skyfish (USA)|PCSE01426
+Legends of War - Patton (USA)|PCSE00254
+LEGO Batman 2 - DC Super Heroes (USA)|PCSE00061
+LEGO Batman 3 - Beyond Gotham (USA)|PCSE00442
+LEGO Harry Potter - Years 5-7 (USA)|PCSE00057
+LEGO Jurassic World (USA)|PCSE00587
+LEGO Legends of Chima - Laval's Journey (USA)|PCSE00237
+LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt)|PCSE00250
+LEGO Marvel's Avengers (USA)|PCSE00670
+LEGO Movie Videogame, The (USA) (En,Fr,Es,Pt)|PCSE00353
+LEGO Ninjago - Nindroids (USA)|PCSE00384
+LEGO Ninjago - Shadow of Ronin (USA)|PCSE00534
+LEGO Star Wars - The Force Awakens (USA)|PCSE00791
+LEGO The Hobbit (USA)|PCSE00390
+LEGO The Lord of the Rings (USA)|PCSE00067
+Lemmings Touch (USA)|PCSA00138
+Let's Fish! Hooked On (USA) (En,Fr,Es)|PCSE00216
+Let's Try Bass Fishing - FISH ON NEXT (Japan)|PCSG00028
+Letter Quest Remastered (USA)|PCSE00825
+Level 22 (USA)|PCSE00766
+Lichtspeer (USA)|PCSE01010
+Licky the Lucky Lizard Lives Again (USA)|PCSE01148
+Limbo (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Tr)|PCSE00268
+Link-a-Pix Deluxe (USA)|PCSE01285
+Little Adventure on the Prairie (USA)|PCSE01231
+Little Busters! Converted Edition (Japan)|PCSG00007
+Little Deviants (USA) (En,Fr,Es,Pt)|PCSA00010
+Little Red Lie (USA)|PCSE01218
+LittleBigPlanet (USA)|PCSA00017
+LittleBigPlanet - Marvel Super Hero Edition (USA)|PCSA00549
+London Detective Mysteria (USA)|PCSE01187
+Lone Survivor - The Director's Cut (USA) (En,Fr)|PCSE00301
+Long Reach, The (USA)|PCSE01162
+Longest Five Minutes, The (USA)|PCSE00993
+Looney Tunes Galactic Sports (Europe)|PCSF00441
+Lord of Apocalypse (Japan)|PCSG00008
+Lost Child, The (USA)|PCSE01179
+Lost Dimension (USA)|PCSE00673
+Love Clear (Japan)|PCSG01314
+Love Live! School Idol Paradise Vol. 1 - Printemps (Japan)|PCSG00422
+Love Live! School Idol Paradise Vol. 2 - BiBi (Japan)|PCSG00423
+Love Live! School Idol Paradise Vol. 3 - Lily White (Japan)|PCSG00424
+Love of Ren'ai Koutei of Love! (Japan)|PCSG01004
+Love Revenge Trial (Japan)|PCSG90185
+Love-Quiz - Koisuru Shoujo no Final Answer (Japan)|PCSG00667
+Lovely Cation 1 & 2 (Japan)|PCSG00556
+Lovely Quest Unlimited (Japan)|PCSG00336
+Luckslinger (Asia)|PCSH10290
+Lucky Dog 1 (Japan)|PCSG01165
+Luftrausers (USA)|PCSE00247
+Lumines - Electronic Symphony (USA) (En,Fr,Es)|PCSE00009
+Luminous Arc Infinity (Japan)|PCSG00444
+Lumo (USA)|PCSE00857
+M3 - Sono Kuroki Hagane - Mission Memento Mori (Japan)|PCSG00475
+Machinarium (USA)|PCSE00212
+Macross Delta Scramble (Japan)|PCSG00947
+Madden 13 (USA)|PCSE00084
+Magic-kyun! Renaissance (Japan)|PCSG00852
+Magical Beat (USA)|PCSE00457
+Mahjong Carnival (USA)|PCSE00749
+Mahjong Fight Club - Shinsei Zenkoku Taisen Han (Japan)|PCSG00029
+Mahjong Gold (USA)|PCSE00455
+Mahjong Royal Towers (USA)|PCSE00287
+Mahjong World Contest (USA)|PCSE00396
+Mahou Shoujo Taisen Zanbatsu (Japan) (PCSG00392)|PCSG00368
+Mahouka Koukou no Rettousei - Out of Order (Japan)|PCSG00456
+Maison de Maou (Japan)|PCSG00856
+Majo Koi Nikki - Dragon x Caravan (Japan)|PCSG00770
+Making Lovers (Japan)|PCSG01284
+Malicious Rebirth (USA)|PCSA00127
+Maliya (USA)|PCSE00736
+Manga Kakeru (Japan)|PCSG00340
+Mary Skelter - Nightmares (USA)|PCSE01014
+Mato Kurenai Yuugekitai - Daybreak Special Gigs (Japan)|PCSG00634
+Mecho Tales (USA)|PCSE01158
+Mecho Wars - Desert Ashes (USA)|PCSE01264
+Medieval Defenders (USA)|PCSE00687
+MegaTagmension Blanc + Neptune vs. Zombies (USA)|PCSE00832
+Meiji Toukyou Renka - Full Moon (Japan)|PCSG00896
+Meikyuu Cross Blood - Infinity Ultimate (Japan)|PCSG00398
+MeiQ (Japan)|PCSG00258
+MeiQ - Labyrinth of Death (USA)|PCSE00918
+MeiQ no Chika Ni Shisu - A Maze to Eradicate Them All (Asia)|PCSH00294
+Mekabolt (USA)|PCSE01428
+Mekorama (USA) (En,Ja,Fr,De,Es,Zh)|PCSE01390
+Mellkiss (Japan)|PCSG01285
+Memories Off - Innocent Fille (Asia)|PCSH10133
+Memories Off - Innocent Fille for Dearest (Japan)|PCSG01264
+Memories Off - Yubikiri no Kioku (Japan)|PCSG00177
+Memories Off 6 Complete (Japan)|PCSG00176
+Men's Room Mayhem (USA) (En,Fr,Es)|PCSE00252
+Mercenary Kings - Reloaded Edition (USA)|PCSE00956
+Metagal (USA)|PCSE01080
+Metal Gear Solid 2 - Sons of Liberty - HD Edition (USA)|PCSE00078
+Metal Gear Solid 3 - Snake Eater HD Edition (USA)|PCSE00079
+Metal Gear Solid HD Collection (USA) (En,Fr,Es)|PCSE00020
+Metal Max Xeno (Japan)|PCSG00972
+Metal Slug 3 (USA)|PCSE00665
+Metrico (USA)|PCSE00406
+Metropolis - Lux Obscura (USA)|PCSE01221
+Mezamashi Doumei (Japan)|PCSC80004
+Michael Jackson The Experience HD (USA)|PCSE00010
+Midnight Deluxe (USA)|PCSE01194
+Mikagami Sumika no Seifuku Katsudou (Japan)|PCSG01193
+Miku Miku Hockey (Japan)|PCSC00052
+Miku Miku Hockey 2.0 (Japan)|PCSC00081
+Miles & Kilo (USA) (En,Fr,De,Es,It,Nl,Pt,Ru)|PCSE01425
+Milo's Quest (USA) (En,Fr,De,Es,Pt,Ru)|PCSE01449
+Mind Maze (USA)|PCSE01501
+Mind Zero (USA)|PCSE00359
+Minecraft - PlayStation Vita Edition (USA)|PCSE00491
+Minna de Spelunker Z (Japan)|PCSG00581
+Minna to Issho (Japan)|PCSC00055
+Minutes (USA)|PCSE00576
+Miracle Girls Festival (Japan)|PCSG00610
+Mixups by POWGI (USA)|PCSE01378
+MLB 12 - The Show (USA)|PCSA00002
+MLB 13 - The Show (USA)|PCSA00065
+MLB 15 - The Show (USA)|PCSA00511
+MLB.TV Premium (USA)|PCSE00654
+Mobile Suit Gundam - Extreme VS-Force (USA)|PCSE00915
+Mochi Mochi Boy (USA)|PCSE01414
+ModNation Racers - Road Trip (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru)|PCSA00001
+Moe Chronicle (Asia) (En,Zh)|PCSH00148
+Moe Moe 2-Ji Daisenryaku 3 (Japan)|PCSG00989
+Moe Moe Daisensou - Gendaiban++ (Japan)|PCSG00065
+Monobeno - Pure Smile (Japan)|PCSG00378
+Monster Hunter Frontier G (Asia)|PCSH00109
+Monster Masterpiece (Europe)|?
+Monster Monpiece (USA)|PCSE00373
+Monster Radar Plus (Japan)|PCSG00124
+MonsterBag (USA) (En,Fr,Es,Pt)|PCSA00149
+MOP - Operation Cleanup (USA)|PCSE00838
+Mortal Kombat (USA) (En,Fr,De,Es,It,Pt)|PCSE00023
+Moshi, Kono Sekai ni Kamisama ga Iru to Suru Naraba. (Japan)|PCSG00706
+MotoGP 13 (USA)|PCSE00409
+MotoGP 13 Compact (Europe)|PCSB00487
+MotoGP 14 (USA) (En,Fr,Es,Pt)|PCSE00529
+MotoGP 14 Compact (Europe)|PCSB00697
+MotorStorm RC (USA) (En,Fr,Es,Pt)|PCSA00034
+Motto Ane, Chan to Shiyouyo! +Plus (Japan)|PCSG00247
+Mou Sou Suru Shika Nai (Japan)|PCSG00091
+Moujuu-Tachi to Ohimesama (Japan)|PCSG00854
+Moujuutsukai to Oujisama (Japan)|PCSG00244
+MouseCraft (USA) (En,Fr,Es)|PCSE00420
+Mr. Pumpkin's Adventure (USA)|PCSE01002
+Ms. Germinator (USA)|PCSE00282
+MUD - FIM Motocross World Championship (USA)|PCSE00219
+Multiplayer.it (Italy)|PCSB00685
+Muppets Movie Adventures, The (USA)|PCSA00685
+Muramasa Rebirth (USA)|PCSE00240
+Murasaki Baby (USA)|PCSA00153
+Murasaki Mist - Akara's Journey (USA)|PCSE00872
+Mushroom Heroes (Japan)|PCSG01328
+Music Unlimited (World)|PCSI00001
+Musou Orochi 2 Ultimate (Asia)|PCSH00054
+Musou Stars (Asia)|PCSH10037
+Musynx (USA)|PCSE01184
+Mutant Mudds - Super Challenge (USA)|PCSE00906
+Mutant Mudds Deluxe (USA) (Rev 1)|PCSE01013
+Muv-Luv (USA)|PCSE01259
+Muv-Luv Alternative (USA)|PCSE01260
+Muv-Luv Alternative Total Eclipse - Teito Moyu (Japan)|PCSG90203
+MXGP - The Official Motocross Game Compact (Europe)|PCSB00696
+MXGP - The Official Motocross Videogame (USA) (En,Fr,Es,Pt)|PCSE00530
+My Aunt Is a Witch (Europe)|PCSB01463
+My Big Sister (USA)|PCSE01386
+My Name Is Mayo (USA)|PCSE00982
+My Singing Monsters (USA)|PCSE00459
+MyNBA2K15 (USA)|PCSE00554
+Mystery Chronicle - One Way Heroes (USA)|PCSE00830
+NadeRevo! Nadeshiko Revolution (Japan)|PCSG01178
+Nanairo Reincarnation (Japan)|PCSG00664
+Naspocket (Japan)|PCSC80017
+Natsuiro Kokoro Log (Japan)|PCSG01185
+Natsumegu (Japan)|PCSG00650
+Natural Doctrine (USA)|PCSE00460
+NAX Music Player (Japan)|PCSG00030
+NBA Game Time (USA) (En,Ja,Fr,Es)|PCSA00136
+Necrosphere Deluxe (USA)|PCSE01361
+Need a Packet (Europe)|PCSB01380
+Need for Speed - Most Wanted (USA) (En,Fr,Es)|PCSE00089
+Nekketsu Inou Bukatsu - Trigger Kiss (Japan)|PCSG00410
+NekoBuro - Cats Block (USA)|PCSE00678
+Nelke to Densetsu no Renkinjutsutachi - Aratana Daichi no Atelier (Japan)|PCSG01223
+Neo Atlas 1469 (Japan)|PCSG00877
+Neon Chrome (USA)|PCSE00835
+Neon Junctions (USA)|PCSE01398
+Nep-Nep Connect - Chaos Chanpuru (Japan)|PCSG00951
+Net High (Japan)|PCSG00656
+NeuroVoider (USA)|PCSE01236
+NeverEnd (USA)|PCSE01137
+Neverending Nightmares (USA)|PCSE00847
+New Game! The Challenge Stage! (Asia)|PCSH10101
+New Little King's Story (USA) (En,Fr,Es)|PCSE00066
+NextRev - Takken Shiken 2015 (Japan)|PCSG00391
+NG (Japan)|PCSG01204
+Nidhogg (USA)|PCSE00514
+Night Trap - 25th Anniversary Edition (USA)|PCSE01149
+NightCry (USA)|PCSE00895
+Nihilumbra (USA) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko,Ru)|PCSE00620
+Nikoli no Puzzle V - Akari (Japan)|PCSG00082
+Nikoli no Puzzle V - Hashi o Kakero (Japan)|PCSG00095
+Nikoli no Puzzle V - Heyawake (Japan)|PCSG00067
+Nikoli no Puzzle V - Hitori ni Shitekure (Japan)|PCSG00098
+Nikoli no Puzzle V - Kakuro (Japan)|PCSG00060
+Nikoli no Puzzle V - Masyu (Japan)|PCSG00083
+Nikoli no Puzzle V - Number Link (Japan)|PCSG00097
+Nikoli no Puzzle V - Nurikabe (Japan)|PCSG00068
+Nikoli no Puzzle V - Shikaku ni Kire (Japan)|PCSG00096
+Nikoli no Puzzle V - Yajilin (Japan)|PCSG00094
+Nikoli no Sudoku V - Shugyoku no 12 Puzzle (Japan)|PCSG00044
+Nil Admirari no Tenbin - Kuroyuri En'youtan (Japan)|PCSG01014
+Nil Admirari no Tenbin - Teito Genwaku Kitan (Japan)|PCSG00766
+Ninja Gaiden Sigma 2 Plus (USA) (En,Ja,Fr,De,Es,It)|PCSE00233
+Ninja Gaiden Sigma Plus (USA) (En,Ja,Fr,De,Es,It)|PCSE00021
+Ninja Senki DX (USA)|PCSE00817
+Ninja Usagimaru - Two Tails of Adventure (USA)|PCSE01067
+Ninki Seiyuu no Tsukurikata (Japan)|PCSG01111
+No Heroes Allowed - No Puzzles Either! (USA)|PCSA00150
+Nobunaga no Yabou - Tendou with Power-Up Kit (Japan) (Koei Tecmo the Best)|PCSG00112
+Nobunaga no Yabou - Tenshouki with Power-Up Kit HD Version (Japan)|PCSG00741
+Nobunaga no Yabou 201X (Japan)|PCSG00803
+Nobunaga's Ambition - Souzou (Asia)|PCSH00087
+Nobunaga's Ambition - Souzou - Sengoku Risshiden (Asia)|PCSH00291
+Nobunaga's Ambition - Sphere of Influence (Asia)|PCSH00171
+Nora to Koujo to Noraneko Heart (Japan)|PCSG01107
+Nora to Oujo to Noraneko Heart 2 (Japan)|PCSG01235
+Norman's Great Illusion (Europe)|PCSB01461
+Norn9 - Last Era (Japan)|PCSG00429
+Norn9 - Var Commons (USA)|PCSE00762
+North (USA)|PCSE01173
+Nova-111 (USA)|PCSE00686
+Nuclear Throne (USA)|PCSE00828
+Nun Attack (USA) (En,Fr)|PCSE00220
+Nurse Love Addiction (USA)|PCSE01004
+Nurse Love Syndrome (USA)|PCSE01318
+Nyan-derful Puzzle - NekoBuro (Japan)|PCSG00533
+Oboro Muramasa (Japan) (PlayStation Vita the Best)|PCSG00150
+Occultic;Nine (Japan)|PCSG01021
+Oceanhorn - Monster of Uncharted Seas (USA)|PCSE01097
+Octalide (Japan)|PCSG00089
+Octodad - Dadliest Catch (USA)|PCSE00623
+Oddworld - Munch's Oddysee HD (USA)|PCSE00369
+Oddworld - New 'n' Tasty (USA)|PCSE00394
+Oddworld - Stranger's Wrath HD (USA)|PCSE00043
+Odin Sphere - Leifdrasir (USA)|PCSE00899
+OlliOlii (Europe)|PCSB00449
+OlliOlli (USA) (En,Ja,Fr,De,Es,It)|PCSE00341
+OlliOlli2 - Welcome to Olliwood (USA) (En,Ja,Fr,De,Es,It)|PCSE00479
+Omega Labyrinth (Japan)|PCSG00550
+Omega Labyrinth Z (Asia) (En,Zh,Ko)|PCSH10044
+OMG HD Zombies! (USA)|PCSE00275
+One Eyed Kutkh (USA)|PCSE01220
+One More Dungeon (USA)|PCSE01176
+One Piece - Burning Blood (USA)|PCSE00808
+One Piece - Kaizoku Musou 2 (Japan)|PCSG00142
+One Piece - Kaizoku Musou 3 (Japan)|PCSG00544
+One Piece - Pirate Warriors 3 (USA)|PCSE00638
+One Piece 2 (Asia)|PCSH00034
+One Piece Unlimited World Red (USA) (En,Fr,Es)|PCSE00423
+One Word by POWGI (USA)|PCSE01338
+Onigiri (Japan)|PCSG01109
+Ooedo Blacksmith (Japan)|PCSG00377
+Open Me! (USA)|PCSA00118
+Operation Abyss - New Tokyo Legacy (USA)|PCSE00579
+Operation Babel - New Tokyo Legacy (USA)|PCSE01047
+Ore ni Hatarakette Iwaretemo - Tori (Japan)|PCSG00623
+Ore ni Hatarakette Iwaretemo Otsu HD (Japan)|PCSG00289
+Oreshika - Tainted Bloodlines (USA)|PCSA00155
+Oretachi ni Tsubasa wa Nai (Japan)|PCSG00299
+Oretachi no Sekai wa Shimatteiru (Japan)|PCSG01076
+Orfleurs - Koufuku no Hanataba (Japan)|PCSG00919
+Organ Trail - Complete Edition (USA)|PCSE00738
+Orgarhythm (USA)|PCSE00116
+Othello (Japan)|PCSG00427
+Otoko Yuukaku (Japan)|PCSG00487
+Otome Riron to Sono Shuuhen - Bon Voyage (Japan)|PCSG00942
+Ou to Maou to Shichinin no Himegimitachi - Shin Ousama Monogatari (Japan)|PCSG00034
+Ouka Sabaki Zan (Japan)|PCSG01105
+Oukaranman (Japan)|PCSG00254
+Ouma ga Toki - Kakuriyo no Enishi (Japan)|PCSG00769
+Owaru Sekai to Birthday (Japan)|PCSG00967
+Ozmafia!! - Vivace (Japan)|PCSG00496
+Pachi Pachi on a Roll (USA)|PCSE01498
+Paint Park (USA) (En,Fr,Es,Pt)|PCSA00059
+Paint Park Plus (USA)|PCSA00111
+Paint Park Plus - Eyedropper Tool (USA)|PCSA00111
+Paint Park Plus - Watercolor Pen (USA)|PCSA00111
+Panda Run (USA)|PCSE00489
+Panic Palette (Japan)|PCSG01247
+Pantsu Hunter - Back to the 90s (USA)|PCSE01417
+Papers, Please (USA)|PCSE01056
+Paradox Soul (USA)|PCSE01401
+Paranautical Activity (USA)|PCSE00821
+Parfait (Japan)|PCSG00549
+Pato Box (USA)|PCSE01268
+Pawapuro Stadium (Japan)|PCSG00262
+Peasant Knight (USA)|PCSE01082
+Penny-Punching Princess (USA)|PCSE01143
+Perils of Baking - Refrosted (USA)|PCSE01342
+Period - Cube - Shackles of Amadeus (USA)|PCSE01012
+Persona 3 - Dancing in Moonlight (USA)|PCSE01274
+Persona 4 - Dancing All Night (USA)|PCSE00764
+Persona 4 Golden (USA)|PCSE00120
+Persona 5 - Dancing in Starlight (USA)|PCSE01275
+Phantasy Star Nova (Asia)|PCSH00143
+Phantasy Star Online 2 (Japan)|PCSG00141
+Phantom Breaker - Battle Grounds (USA)|PCSE00458
+Phineas and Ferb - Day of Doofenshmirtz (USA)|PCSA00798
+PhotoKano Kiss (Japan)|PCSG00139
+PhotoKano Kiss AR (Japan)|PCSG00160
+Photon Cube (Japan)|PCSG01071
+Pic-a-Pix Classic (USA)|PCSE01376
+Pic-a-Pix Classic 2 (USA)|PCSE01435
+Pic-a-Pix Color (USA)|PCSE01253
+Pic-a-Pix Color 2 (USA)|PCSE01422
+Pic-a-Pix Pieces (USA)|PCSE01357
+Pic-a-Pix Pieces 2 (Europe)|PCSB01430
+Picotto Knights (Japan)|PCSG00078
+Pinball Arcade, The (USA)|PCSE00065
+Pinball Heroes - Complete (USA) (En,Fr,Es,Pt)|PCSA00109
+Piofiore no Banshou (Japan)|PCSG01139
+Pirate Solitaire (USA)|PCSE00751
+Pix the Cat (USA)|PCSE00553
+Pixel Hunter (USA)|PCSE00874
+PixelJunk Monsters Ultimate HD (USA)|PCSE00307
+PixelJunk Shooter Ultimate (USA)|PCSE00451
+Plague Road (USA)|PCSE01074
+Planet RIX-13 (USA)|PCSE01336
+Plantera (USA)|PCSE01092
+Plants vs. Zombies (USA)|PCSE00064
+Plastic Memories (Japan)|PCSG00931
+PlayStation All-Stars Battle Royale (USA)|PCSA00069
+PlayStation Vita Pets (USA)|PCSA00139
+Pocket God vs Desert Ashes (USA)|PCSE00682
+Pocket RPG (USA)|PCSE00558
+Polara (USA)|PCSE01050
+Poltergeist - A Pixelated Horror (USA)|PCSE00564
+Possession Magenta (Japan)|PCSG00509
+Power Pro Stadium (Japan)|PCSG00164
+Power Smash 4 (Japan)|PCSG00006
+Pox Nora (USA)|PCSE00961
+Present for You (Japan)|PCSG00123
+PriministAr (Japan)|PCSG00905
+Prince of Stride (Japan)|PCSG00491
+Princess Arthur (Japan)|PCSG00271
+Princess Strike! (Japan)|?
+Princess wa Kane no Mouja (Japan)|PCSG00946
+Pro Yakyuu Spirits 2019 (Japan)|PCSG01248
+Project Discovery - Daidai Daisuki! (Japan)|PCSG00572
+Project Root (USA)|PCSE00486
+Proteus (USA) (En,Fr,Es)|PCSE00311
+PSM Development Assistant for Unity (Europe)|?
+Psychedelica of the Ashen Hawk (USA)|PCSE01166
+Psychedelica of the Black Butterfly (USA)|PCSE01164
+Psycho-Pass - Mandatory Happiness (USA)|PCSE00904
+Puddle (USA) (En,Fr,Es)|PCSE00042
+PulzAR (USA)|PCSA00036
+Pumped BMX + (USA)|PCSE00702
+Punch Line (USA)|PCSE01288
+PuraMai Wars V (Japan)|PCSG00904
+Pure Chess (USA) (En,Fr,De,Es,It,Nl,Ru)|PCSE00086
+Putty Squad (USA) (En,Fr,De,Es,It)|PCSE00389
+Puyo Puyo Tetris (Japan)|PCSG00224
+Puzzle by Nikoli V - Slitherlink (Europe)|PCSE00108
+Puzzle by Nikoli V - Sudoku (USA)|PCSE00101
+Q-bert - Rebooted (USA)|PCSE00561
+Qello HD Concerts (USA)|PCSE00338
+Quell Memento (USA)|PCSE00143
+Quiet Collection, The (USA)|PCSE00775
+Rabi Laby - Puzzle Out Stories (Japan)|PCSG01037
+Rabi-Ribi (USA)|PCSE01111
+Race the Sun (USA)|PCSE00461
+Radiko.jp (Japan)|PCSC80016
+Radio Hammer Station (Asia) (En,Ja,Zh,Ko)|PCSH10019
+Ragnarok Odyssey (USA)|PCSE00119
+Ragnarok Odyssey Ace (USA)|PCSE00300
+Rainbow Moon (USA)|PCSE00273
+Rainbow Skies (USA)|PCSE00318
+Rally Copters (USA)|PCSE00732
+Random Heroes - Gold Edition (USA) (En,Ja,Fr,De,Es,It,Ru)|PCSE01351
+Ratchet & Clank (Europe)|PCSF00484
+Ratchet & Clank - Full Frontal Assault (USA)|PCSA00086
+Ratchet & Clank 2 (Europe)|PCSF00485
+Ratchet & Clank 3 (Europe)|PCSF00486
+Ratchet & Clank Collection (USA)|PCSA00133
+Ray Gigant (USA)|PCSE00843
+Rayman Legends (USA) (En,Fr,Es,Pt)|PCSE00277
+Rayman Origins (USA) (En,Fr,Es)|PCSE00052
+Re-Birthday Song - Koi o Utau Shinigami - Another Record (Japan)|PCSG00911
+Re-Vice D (Japan)|PCSG00382
+Re-Zero kara Hajimeru Isekai Seikatsu - Death or Kiss (Japan)|PCSG00933
+Reader (Japan)|PCSC80012
+Real Boxing (USA) (En,Fr,Es)|PCSE00325
+Reality Fighters (USA)|PCSA00012
+Rear Pheles - Red of Another (Japan)|PCSG00663
+RecoLove - Blue Ocean (Japan)|PCSG00781
+RecoLove - Gold Beach (Japan)|PCSG00782
+Red - Game without a Great Name (USA)|PCSE00807
+Red Bow (USA) (En,Ja,Fr,De,Es,Zh,Ru)|PCSE01434
+Red Game without a Great Name (Europe)|PCSB00887
+Redbox Instant (USA)|PCSE00391
+Reed 2 (USA) (En,Fr,De,Es,Ru)|PCSE01471
+Reed Remastered (USA) (En,Fr,De,Es,Ru)|PCSE01456
+Reel Fishing - Master's Challenge (USA)|PCSE00526
+Refalsia no Genei (Japan)|PCSG01288
+Refrain no Chika Meikyuu to Majo no Ryodan (Japan)|PCSG00795
+Rei-Jin-G-Lu-P (Japan)|PCSG00958
+Reine des Fleurs (Japan)|PCSG00405
+Renai 0 Kilometer V (Japan)|PCSG00426
+Renai Revenge (Japan)|PCSG00718
+Resident Evil - Revelations 2 (USA)|PCSE00608
+Resistance - Burning Skies (USA) (En,Es,Pt)|PCSA00008
+Resogun (USA) (En,Fr,Es,Pt)|PCSA00103
+Retro City Rampage DX (USA) (En,Fr,De,Es,It)|PCSE00546
+Revenant Dogma (USA)|PCSE01322
+Revenant Saga (USA)|PCSE01065
+Revenge of the Bird King (USA)|PCSE01302
+Reverie (USA)|PCSE01229
+Rewrite (Japan)|PCSG00414
+Rewrite Harvest Festa! (Japan)|PCSG01043
+Riddled Corpses EX (USA)|PCSE01251
+Ridge Racer (USA)|PCSE00001
+Ring Run Circus (USA)|PCSE00548
+RisingStar (Japan)|PCSG00257
+Risk of Rain (USA)|PCSE00850
+Ro-Kyu-Bu! Naisho no Shutter Chance (Japan)|PCSG00287
+Robotics;Notes Elite (Japan)|PCSG00352
+Rock Boshers DX - Director's Cut (USA)|PCSE00541
+Rocketbirds - Hardboiled Chicken (USA) (En,Fr,Es,Pt)|PCSE00112
+Rocketbirds 2 - Evolution (USA)|PCSE00761
+Rogue Aces (USA)|PCSE01198
+Rogue Legacy (USA) (En,Fr,De,Es,Pt)|PCSE00449
+Rollers of the Realm (USA) (En,Fr,Es)|PCSE00513
+Romance of the Three Kingdoms XII - Competition Edition (Japan)|PCSG00211
+Romance of the Three Kingdoms XIII - Fame and Strategy Expansion Pack Bundle (Asia)|PCSH00308
+Romancing SaGa 2 (USA)|PCSE01094
+Romancing SaGa 3 (USA)|PCSE01337
+Root Double - Before Crime - After Days - Xtend Edition (USA)|PCSE01055
+Root Letter (USA)|PCSE00963
+Root Letter - Last Answer (Japan)|PCSG01238
+Rose in the Twilight, A (USA)|PCSE01046
+Roundabout (USA)|PCSE00699
+Royal Defense (USA)|PCSE00750
+Royal Defense - Invisible Threat (USA)|PCSE00753
+Rozen Maiden - Wechseln Sie Welt ab (Japan)|PCSG00229
+Rugby 15 (USA)|PCSE00505
+Rugby World Cup 2015 (USA)|PCSE00674
+Rui wa Tomo o Yobu (Japan)|PCSG00216
+Run Like Hell! (USA)|PCSE00446
+Run Sackboy! Run! (USA) (En,Fr,Es,Pt)|PCSA00490
+Rush Rover (USA) (En,Fr,De,Es,Zh,Ru)|PCSE01387
+Russian Subway Dogs (USA)|PCSE01226
+Ryuu ga Gotoku - Ishin! (Japan)|PCSG00275
+Ryuu ga Gotoku Zero (Asia)|PCSH00147
+Ryuuyoku no Melodia - Diva with the Blessed Dragonol (Japan)|PCSG00732
+SA7 - Silent Ability Seven (Japan)|PCSG00640
+Saenai Heroine no Sodatekata - Blessing Flowers (Japan)|PCSG00543
+SaGa - Scarlet Grace (Japan)|PCSG00802
+Saka Agari Hurricane Portable (Japan)|PCSG00906
+Saka-ban (Japan)|PCSG90088
+Saki - Zenkoku-hen Plus (Japan)|PCSG00908
+Sakura Sakura (Japan)|PCSG01231
+Sakurasou no Pet na Kanojo (Japan)|PCSG00129
+Salt and Sanctuary (USA)|PCSE01023
+Samurai & Dragons (Japan)|PCSG00041
+Samurai Shodown V Special (USA)|PCSE01113
+Samurai Spirits Zero Special (Japan)|PCSG01101
+Samurai Warriors 4 (USA)|PCSE00503
+Samurai Warriors 4 Empires (USA)|PCSE00827
+Samurai Warriors 4-II (USA)|PCSE00737
+Samurai Warriors Chronicles 3 (USA)|PCSE00714
+San Goku Shi 12 with Power-Up Kit (Japan)|PCSG00210
+Sangoku Hime 2 - Tenka Hatou - Shishi no Keishousha (Japan)|PCSG00189
+Sangoku Hime 4 - Tenka Ryouran - Tenmei no Koi Emaki (Japan)|PCSG00863
+Sangoku Koi Senki - Omoide Gaeshi CS Edition (Japan)|PCSG00785
+Sangoku Koisenki - Otome no Heihou (Japan)|PCSG00183
+Sanzen Sekai Yuugi - Re Multi Universe Myself (Japan)|PCSG01194
+Saturday Morning RPG (USA)|PCSE00724
+Save the Ninja Clan (USA)|PCSE01128
+Sayonara UmiharaKawase + (USA)|PCSE00683
+Scared Rider Xechs Rev. (Japan)|PCSG00745
+Schwarzesmarken - Kouketsu no Monshou - Prologue (Japan)|PCSG90202
+Scintillatron 4096 (USA)|PCSE01355
+ScourgeBringer (USA)|PCSE01505
+Scram Kitty DX (USA)|PCSE00642
+SD Gundam G Generation Genesis (Asia) (En)|PCSH00242
+Secret of Mana (USA)|PCSE01153
+Seiken Densetsu - Rise of Mana (Japan)|PCSG00460
+Sekai Seifuku - Costume Fes. (Japan)|PCSG00343
+Semispheres (USA)|PCSE01142
+Sen no Hatou, Tsukisome no Kouki (Japan)|PCSG01127
+Sengoku Hime 3 - Tenka o Kirisaku Hikari to Kage (Japan)|PCSG00132
+Sengoku Hime 4 - Souha Hyakkei Hana Mamoru Chikai (Japan)|PCSG00232
+Sengoku Hime 5 - Senka Tatsu Haou no Keifu (Japan)|PCSG00466
+Sengoku Hime 7 - Sen'un Tsuranuku Guren no Ishi (Japan)|PCSG01034
+Sengoku Musou - Sanada Maru (Japan)|PCSG00954
+Sengoku Musou 2 Empires HD Version (Japan)|PCSG00230
+Sengoku Musou 2 with Moushouden HD Version (Japan)|PCSG00233
+Sengoku Otome - Legend Battle (Japan)|PCSG00867
+Sengoku Shura Soul (Japan)|PCSG00983
+Senjou no Waltz (Japan)|PCSG00428
+Senran Kagura - Estival Versus (USA)|PCSE00787
+Senran Kagura Bon Appetit! (USA) (En,Es)|PCSE00471
+Senran Kagura Shinovi Versus (USA) (En,Es)|PCSE00398
+Seven Days - Anata to Sugosu Nanokakan (Japan)|PCSG01210
+Severed (USA)|PCSE00589
+Shake Spears! (USA) (En,Ja,Fr,De,Es,It,Nl,Ru)|PCSE00272
+Shakedown Hawaii (USA)|PCSE01125
+Shantae - Half-Genie Hero (USA)|PCSE00950
+Shiin (Japan)|PCSG01005
+Shikihime no Niwa (Japan)|PCSG01177
+Shin Gundam Musou (Asia)|PCSH00058
+Shin Hayarigami (Japan)|PCSG00380
+Shin Hayarigami 2 (Japan)|PCSG00897
+Shin Kamaitachi no Yoru - 11 Hitome no Suspect (Japan)|PCSG00010
+Shin Sangoku Musou Online Z (Japan)|PCSG00764
+Shingeki no Kyojin 2 (Japan)|PCSG01102
+Shinigami to Shoujo (Japan)|PCSG01282
+Shinobi Koi Utsutsu Kanmitsu Hanakoi Emaki (Japan)|PCSG01038
+Shinobi Koi Utsutsu Yukitsuki Hanakoi Emaki (Japan)|PCSG00602
+ShinobiAshi (Japan)|PCSG00255
+Shinobido 2 - Revenge of Zen (USA) (En,Fr,Es)|PCSE00015
+Shinsei Batteki Drive Girls (Japan)|PCSG00934
+Shinshaku Tsurugi no Machi no Ihoujin - Kuro no Kyuuden (Japan)|PCSG00878
+Shinyomawari (Japan)|PCSG01080
+Shiren the Wanderer (USA)|PCSE00845
+Shiro to Kuro no Alice (Japan)|PCSG00944
+Shiro to Kuro no Alice - Twilight Line (Japan)|PCSG01192
+Shirogane x Spirits! (Japan)|PCSG00846
+Shitsuji ga Aruji o Erabu Toki (Japan)|PCSG00822
+Shoujo to Dragon - Genyuu Keiyaku Cryptract (Japan)|PCSG00924
+Shovel Knight (USA)|PCSE00640
+Shu (USA)|PCSE00923
+Shutshimi (USA)|PCSE00705
+Sid Meier's Civilization Revolution 2 Plus (USA)|PCSE00672
+Side Kicks! (Japan)|PCSG01001
+Sigi - A Fart for Melusina (USA)|PCSE01280
+Silent Hill - Book of Memories (USA) (En,Fr,Es,Pt)|PCSE00011
+Silverio Trinity - Beyond the Horizon (Japan)|PCSG01259
+Silverio Vendetta - Verse of Orpheus (Japan)|PCSG00845
+Simple V Series Vol. 1 - The Docodemo Gal Mahjong (Japan)|PCSG00332
+Simple V Series Vol. 2 - The Tousou Highway Full Boost (Japan)|PCSG00329
+Sine Mora (USA) (En,Fr,De,Es,It,Pt)|PCSE00090
+Sir Eatsalot (USA)|PCSE01240
+Siralim (USA)|PCSE00773
+Siralim 2 (USA)|PCSE01016
+Skeleton Rider (Europe)|PCSB00588
+Sketchcross (USA)|PCSE00591
+Skullgirls 2nd Encore (USA)|PCSE00606
+Sky Force Anniversary (USA)|PCSE00865
+Sky! On-Demand (Japan)|?
+Skylight Freerange (USA)|PCSE01054
+Skylight Freerange 2 - Gachduine (USA)|PCSE00862
+Slain - Back from Hell (USA)|PCSE00974
+Slayaway Camp - Butcher's Cut (USA)|PCSE01310
+Sly 2 - Band of Thieves (USA) (En,Fr,Es)|PCSA00097
+Sly 3 - Honor Among Thieves (USA) (En,Fr,Es)|PCSA00098
+Sly Cooper - Thieves in Time (USA) (En,Fr,Es,Pt)|PCSA00068
+Sly Cooper and the Thievius Raccoonus (USA) (En,Fr,Es)|PCSA00096
+Sly Raccoon (Europe)|PCSF00269
+Sly Trilogy, The (Europe)|PCSF00338
+Smart As... (USA) (En,Fr,Es,Pt)|PCSA00079
+SnagFilms - Watch Free Movies & TV Shows (USA)|PCSE00611
+Soi Kano - Gyutto Dakishimete (Japan)|PCSG01254
+Sokoban Next (USA)|PCSE01183
+Soldner-X 2 - Final Prototype (USA) (En,Ja,Fr,De)|PCSE00463
+Son of Scoregasm (USA)|PCSE01154
+Sonic & All-Stars Racing Transformed (USA) (En,Fr,De,Es,It)|PCSE00056
+Sora no Mukou de Saki Masuyou ni (Japan)|PCSG00239
+Sorcery Saga - Curse of the Great Curry God (USA)|PCSE00314
+Soukai Buccaneers! (Japan)|PCSG00296
+Soul Sacrifice (USA) (En,Fr,Es,Pt)|PCSA00092
+Soul Sacrifice Delta (USA)|PCSA00152
+Sound Shapes (USA) (En,Fr,Es)|PCSA00003
+Sousei no Onmyouji (Japan)|PCSG00993
+Soushuu Senshinkan Gakuen - Hachimyoujin Ten no Toki (Japan)|PCSG00396
+Space Hulk (USA)|PCSE00709
+Space Overlords (USA)|PCSE00911
+Spacejacked (USA)|PCSE01145
+Sparkle (USA)|PCSE00295
+Sparkle 2 (USA)|PCSE00454
+Sparkle Unleashed (USA)|PCSE00680
+Spellspire (USA)|PCSE01089
+Spelunker Collection (Japan)|PCSG00145
+Spelunky (USA) (En,Fr,Es,Pt)|PCSE00288
+Spheroids (USA)|PCSE00870
+Spider - Rite of the Shrouded Moon (USA)|PCSE00669
+Spiral Splatter (USA)|PCSE01175
+Spirit Hunter - NG (USA)|PCSE01407
+SpongeBob HeroPants (USA)|PCSE00577
+Spy Chameleon (USA)|PCSE00933
+Spy Hunter (USA)|PCSE00068
+Squareboy vs. Bullies - Arena Edition (USA)|PCSE01151
+Squares (USA)|PCSE00676
+Star Ocean - Second Evolution (Japan)|PCSG00714
+Star Strike Delta (Asia)|PCSD00012
+Star Wars Pinball (USA) (Trial)|PCSE00221
+Stardew Valley (USA)|PCSE01235
+StarDrone Extreme (USA)|PCSE00029
+Starlight Inception (USA) (En,Fr,Es)|PCSE00354
+Starry Sky - Autumn Stories (Japan)|PCSG00917
+Starry Sky - Spring Stories (Japan)|PCSG00510
+Starry Sky - Summer Stories (Japan)|PCSG00916
+Starry Sky - Winter Stories (Japan)|PCSG00918
+Stay (USA)|PCSE01277
+Stealth Inc. - A Clone in the Dark (USA) (En,Fr,Es)|PCSE00280
+Stealth Inc. 2 - A Game of Clones (USA) (En,Fr,Es)|PCSE00575
+Steam Prison - Nanatsu no Bitoku (Japan)|PCSG01062
+Steam Tactics (Europe)|PCSB01353
+SteamWorld Dig (USA) (En,Fr,De,Es,It,Ru)|PCSE00430
+SteamWorld Dig 2 (USA)|PCSE01101
+SteamWorld Heist (USA) (En,Fr,De,Es,It,Ru)|PCSE00583
+Steins;Gate (USA)|PCSE00644
+Steins;Gate - Hiyoku Renri no Darling (Japan)|PCSG00146
+Steins;Gate - Senkei Kousoku no Phenogram (Japan)|PCSG00250
+Steins;Gate 0 (USA)|PCSE00949
+Steins;Gate Elite (Japan)|PCSG01166
+Stick It to the Man! (USA)|PCSE00290
+Still Time (USA)|PCSE01098
+StormLover 2nd V (Japan)|PCSG00736
+StormLover V (Japan)|PCSG00735
+Stranded - A Mars Adventure (USA)|PCSE00929
+Stranger of Sword City (USA)|PCSE00818
+Stranger of Sword City Revisited (USA)|PCSE01052
+Strawberry Nauts (Japan)|PCSG00907
+Street Fighter X Tekken (USA)|PCSE00005
+Strike Solitaire (USA)|PCSE00688
+Strike Solitaire 2 (USA)|PCSE00748
+SturmFront - The Mutant War - Farewell Edition (USA)|PCSE01514
+Sudoku by Nikoli V (Asia) (En,Ja,Zh,Ko)|PCSH00006
+Suki to Suki to de Sankaku Ren'ai (Japan)|PCSG01250
+Sumioni (Japan)|PCSG00038
+Sumioni - Demon Arts (USA)|PCSE00062
+Summon Night 6 - Lost Borders (USA)|PCSE00951
+Sun and Moon, The (USA)|PCSE00631
+SunFlowers (USA) (En,Fr,Es)|PCSE00047
+Super Blackout (USA)|PCSE00784
+Super Blast Deluxe (USA)|PCSE00805
+Super Box Land Demake (USA)|PCSE01433
+Super Destronaut - Land Wars (USA)|PCSE01460
+Super Destronaut DX (USA)|PCSE01263
+Super Exploding Zoo (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)|PCSE00734
+Super Hero Generation (Japan)|PCSG00069
+Super Hydorah (USA)|PCSE01146
+Super Life of Pixel (USA)|PCSE01077
+Super Meat Boy (USA)|PCSE00769
+Super Monkey Ball - Banana Splitz (USA)|PCSE00017
+Super Mutant Alien Assault (USA)|PCSE01072
+Super Robot Taisen (Japan)|PCSG00260
+Super Robot Taisen OG Saga - Masou Kishin III - Pride of Justice (Japan)|PCSG00190
+Super Robot Wars V (Asia) (En)|PCSH10001
+Super Robot Wars X (Asia) (En)|PCSH10088
+Super Skull Smash GO! 2 Turbo (USA)|PCSE01225
+Super Star Wars (USA)|PCSE00802
+Super Stardust Delta (USA) (En,Fr,Es,Pt)|PCSA00006
+Super Time Force Ultra (USA) (En,Fr,De,Es,It,Pt,Pl,Ru)|PCSE00698
+Super Weekend Mode (USA)|PCSE01374
+Super Wiloo Demake (USA)|PCSE01415
+Superbeat - Xonic (USA)|PCSE00717
+Superdimension Neptune vs. Sega Hard Girls (USA)|PCSE00898
+Superfrog HD (USA) (En,Fr,De,Es,It)|PCSE00238
+Supermagical (USA)|PCSE00942
+SuperZangyura (Japan)|PCSG01207
+Supremacy MMA Unrestricted (USA)|PCSE00012
+Suran Digit (Japan)|PCSG00948
+Surge Deluxe (USA) (En,Fr,De,Es,It,Pt)|PCSE00370
+Swapper, The (USA) (En,Fr,Es)|PCSE00387
+SwapQuest (USA)|PCSE00860
+Sweet Clown - Gozen Sanji no Okashi na Doukeshi (Japan)|PCSG00528
+Sweet Pool (Japan)|PCSG01196
+Swindle, The (USA)|PCSE00684
+Switch Galaxy Ultra (USA) (En,Fr,De,Es,It,Nl,Pt)|PCSE00493
+Sword Art Online - Hollow Fragment (USA)|PCSE00465
+Sword Art Online - Hollow Realization (USA)|PCSE00903
+Sword Art Online - Lost Song (USA)|PCSE00740
+Swordbreaker - The Game (Europe)|PCSB01450
+Synergia (USA)|PCSE01508
+Syrup and the Ultimate Sweet (USA)|PCSE01451
+Table Ice Hockey (USA)|PCSA00064
+Table Mini Golf (USA)|PCSA00074
+Table Soccer (USA) (En,Fr,Es)|PCSA00035
+Table Top Racing (USA) (En,Fr,Es,Pt)|PCSE00323
+Table Top Tanks (USA)|PCSA00048
+Tachyon Project (USA)|PCSE00836
+Taco Master (USA)|PCSE00771
+Tadeo Jones (Europe)|PCSB00458
+Tadeo Jones and the Lost Manuscript (Europe)|PCSB00670
+Tag (Europe)|?
+Taiheiyou no Arashi - Shijousaidai no Gekisen Normandy Koubousen (Japan)|PCSG00637
+Taiko no Tatsujin - V Version (Japan)|PCSG00551
+Taishou Mebiusline - Teito Bibouroku Hare (Japan)|PCSG00968
+Taishou Mebiusline - Vitable (Japan)|PCSG00726
+Taishou x Alice - All in One (Japan)|PCSG00869
+Taishou x Alice - Heads & Tails (Japan)|PCSG01141
+Takotan (Europe)|PCSB01465
+Tales From Space - Mutant Blobs Attack!!! (USA) (En,Fr,Es)|PCSE00034
+Tales of Hearts R (USA)|PCSE00429
+Tales of Hearts R - Infinite Evolve (Japan)|PCSG00163
+Tales of Innocence R (Japan)|PCSG00009
+Talisman - Digital Edition (USA)|PCSE00964
+Task Force Kampas (Europe)|PCSB01435
+Tayutama 2 - You're the only one (Japan)|PCSG01203
+TBS World Heritage Site Selection (Japan)|PCSC80019
+Tearaway (USA) (Trial)|PCSA00144
+Teikoku Kaigun Renbojou - Meiji Yokosuka Koushinkyoku (Japan)|PCSG00547
+Teikoku Kaleido - Kakumei no Rondo (Japan)|PCSG01064
+Tengai ni Mau, Iki na Hana (Japan)|PCSG01180
+Tennis in the Face (USA)|PCSE00312
+Tenshi Tsuki no Shoujo (Japan)|PCSG00137
+Terraria (USA) (En,Fr,Es)|PCSE00317
+Teslagrad (USA)|PCSE00814
+Tetra's Escape (USA)|PCSE01238
+Tetris Ultimate (USA) (En,Fr,Es,Pt)|PCSE00521
+Thomas Was Alone (USA)|PCSE00258
+Three Fourths Home - Extended Edition (USA)|PCSE00774
+Thunder Paw (USA)|PCSE01463
+Thy Sword (USA)|PCSE01416
+Tic-Tac-Letters by POWGI (USA)|PCSE01430
+Time Recoil (USA)|PCSE01186
+Time Travelers (Japan)|PCSG00062
+Timepiece Ensemble (Japan)|PCSG00966
+Timespinner (USA)|PCSE01246
+Tiny Troopers - Joint Ops (USA) (En,Fr,Es,Pt)|PCSE00432
+Titan Attacks! (USA)|PCSE00388
+Titan Souls (USA) (En,Fr,De,Es,Pt)|PCSE00597
+To Love-Ru Trouble Darkness - Battle Ecstasy (Japan)|PCSG00330
+To Love-Ru Trouble Darkness - True Princess (Japan)|PCSG00689
+ToHeart 2 - Dungeon Travelers (Japan)|PCSG00575
+Tokeijikake no Ley Line - Kagerou ni Samayou Majo (Japan)|PCSG01015
+Tokushu Houdoubu (Japan)|PCSG00087
+Tokyo Clanpool (Japan)|PCSG01103
+Tokyo Ghoul - Jail (Japan)|PCSG00615
+Tokyo Onmyouji - Tengenjibashi Rei no Baai - V Edition (Japan)|PCSG00631
+Tokyo Shinseiroku - Operation Abyss (Japan)|PCSG00387
+Tokyo Shinseiroku - Operation Babel (Japan)|PCSG00514
+Tokyo Tattoo Girls (USA)|PCSE01150
+Tokyo Twilight Ghost Hunters (USA)|PCSE00509
+Tokyo Twilight Ghost Hunters - Daybreak Special Gigs (USA)|PCSE00924
+Tokyo Xanadu (USA)|PCSE00893
+Tokyo Yamanote Boys for V (Japan)|PCSG01048
+Tokyo Yamanote Boys for V - Fan Disc (Japan)|PCSG01049
+Tonari ni Kanojo no Iru Shiawase - Two Farce (Japan)|PCSG01135
+Tonari ni Kanojo no Iru Shiawase - Winter Guest (Japan)|PCSG01201
+Top Darts (Europe)|PCSF00011
+Top Trumps Turbo (Europe)|PCSB00791
+Torikago no Marriage - Hatsukoi no Tsubasa (Japan)|PCSG00902
+Torne (Japan) (v2.02) (Vita TV)|PCSC00046
+Toro's Friend Network (USA)|PCSA00112
+TorqueL (USA)|PCSE00671
+Total Recoil (USA)|PCSE00284
+Tottemo E Mahjong (Japan)|PCSG00113
+Touch Battle Sensha SP (Japan)|PCSG00593
+Touch My Katamari (USA)|PCSE00016
+Touhou Double Focus (USA)|PCSE01015
+Touhou Genso Maroku W - The Devil of Decline (Japan)|PCSG00977
+Touhou Genso Wanderer (USA)|PCSE00990
+Touhou Kobuto V - Burst Battle (USA)|PCSE01104
+Touhou Sky Arena - Gensoukyou Kuusen Hime Matsuri Climax (Japan)|PCSG00701
+Touhou Soujinengi V (Japan)|PCSG00752
+Toukiden - Kiwami (USA)|PCSE00467
+Toukiden - The Age of Demons (USA)|PCSE00381
+Toukiden 2 (USA)|PCSE00940
+Toukiden 2 - Free Alliances Version (USA)|PCSE01066
+Tower of Beatrice, The (USA)|PCSE01388
+TowerFall Ascension (USA)|PCSE00747
+Travel Bug (Europe)|PCSF00113
+Traveling Stars (Japan)|PCSG00969
+Treasure Park (USA) (En,Fr,Es,Pt)|PCSA00060
+Treasures of Montezuma - Arena (USA) (En,Fr,De,Es,It,Pt)|PCSE00331
+Treasures of Montezuma 4, The (USA)|PCSE00436
+Treasures of Montezuma Blitz (USA) (En,Es,Pt)|PCSE00027
+Trillion - God of Destruction (USA)|PCSE00813
+Tsuihou Senkyo (Japan)|PCSG01023
+Tsuki ni Yori Sou Otome no Sahou - Hidamari no Hibi (Japan)|PCSG00648
+Tsukitomo. Tsukiuta 12 Memories (Japan)|PCSG01025
+Tsumikui - Sen no Noroi, Sen no Inori for V (Japan)|PCSG01019
+Twin Breaker - A Sacred Symbols Adventure (USA)|PCSE01452
+Twin Robots (USA)|PCSE01081
+TxK (USA)|PCSE00397
+Type-Rider (USA)|PCSE00837
+Ukiyo no Roushi (Japan)|PCSG00480
+Ultimate Marvel vs. Capcom 3 (USA)|PCSE00004
+Ultra Mission (USA)|PCSE01513
+Ultracore (Europe)|PCSB01442
+Ultratron (USA)|PCSE00414
+Un-Birthday Song - Koi o Utau Shinigami - Another Record (Japan)|PCSG00912
+Uncanny Valley (USA)|PCSE00822
+Uncharted - Fight for Fortune (USA) (En,Fr,Es)|PCSA00088
+Uncharted - Golden Abyss (USA) (En,Fr,Es)|PCSA00029
+Under Night In-Birth Exe-Late[st] (USA)|PCSE01144
+Undertale (USA)|PCSE01116
+Unepic (USA)|PCSE00840
+Unfinished Swan, The (USA) (En,Fr,Es,Pt)|PCSA00158
+Uni Uni Union (Japan)|PCSG00090
+Unit 13 (USA) (En,Fr,Es,Pt)|PCSA00014
+UP1056-PCSE01461_00-YURIMASTER000000 (USA)|PCSE01461
+UP1056-PCSE01462_00-YURIAFTER0000000 (USA)|PCSE01462
+UP1675-PCSE01391_00-SYPSVSTEAMTACTIC (USA)|PCSE01391
+UP1675-PCSE01413_00-SYPSVNEEDAPACKET (USA)|PCSE01413
+UP1675-PCSE01474_00-SYPSVAWESOMEPEA2 (USA)|PCSE01474
+UP1675-PCSE01484_00-SYPSVSWORDBREAKE (USA)|PCSE01484
+UP1675-PCSE01496_00-SYPSVNORMANSGREA (USA)|PCSE01496
+UP1675-PCSE01499_00-SYPSVBEWITCHEDCO (USA)|PCSE01499
+UP1778-PCSE01467_00-DEMON00000000000 (USA)|PCSE01467
+UP2005-PCSE01468_00-TASKFORCEKAMPAS0 (USA)|PCSE01468
+UP2005-PCSE01500_00-TKTN000000000000 (USA)|PCSE01500
+UP2005-PCSE01517_00-BROTHERHOODUNITE (USA)|PCSE01517
+UP2628-PCSE01481_00-XENOCRISIS000000 (USA)|PCSE01481
+UP2979-PCSE01344_00-DEMONRUSHPSVVITA (USA)|PCSE01344
+UP3515-PCSE01476_00-CONTRAPTIONSVER1 (USA)|PCSE01476
+UP3686-PCSE01479_00-MUSHROOMHEVITANA (USA)|PCSE01479
+UP3743-PCSE01464_00-CRYPTOBYPOWGIPSV (USA)|PCSE01464
+UP3743-PCSE01466_00-PICAPIXPIECESTWO (USA)|PCSE01466
+UP3743-PCSE01492_00-EPICWORDSRCHCOL2 (USA)|PCSE01492
+UP3743-PCSE01493_00-ATOZBYPOWGI00000 (USA)|PCSE01493
+UP4836-PCSE01504_00-HABROXIA2GAMEPSV (USA)|PCSE01504
+UP5155-PCSE01480_00-SENSEACPGS000000 (USA)|PCSE01480
+UP5155-PCSE01491_00-KAWAIIDDS0000001 (USA)|PCSE01491
+UP5155-PCSE01495_00-BDTHS00000000002 (USA)|PCSE01495
+UP8012-PCSE01487_00-0000440000000002 (USA)|PCSE01487
+Uppers (Japan)|PCSG00633
+Urban Trial Freestyle (USA) (En,Es)|PCSE00051
+Usotsuki Hime to Moumoku Ouji (Japan)|PCSG01191
+Usotsuki Shangri-La (Japan)|PCSG01046
+Uta Kumi 575 (Japan)|PCSG00199
+Uta no Prince-Sama - Music 3 (Japan)|PCSG00651
+Uta no Star Prince-Sama - Repeat Love (Japan)|PCSG00914
+Utawarerumono - Mask of Deception (USA)|PCSE00959
+Utawarerumono - Mask of Truth (USA)|PCSE01102
+Utawarerumono - Prelude to the Fallen (USA)|PCSE01409
+VA-11 Hall-A (USA)|PCSE00756
+Valhalla Knights 3 (USA)|PCSE00244
+Valkyria Revolution (USA)|PCSE01003
+Valkyrie Drive - Bhikkhuni (USA)|PCSE00948
+Vamwolf Cross (Japan)|PCSG00467
+Variable Barricade (Japan)|PCSG01159
+Vasara Collection (USA)|PCSE01314
+Vasilis (USA)|PCSE01412
+Vegas Party (USA)|PCSE01114
+Velocibox (USA)|PCSE00712
+Velocity 2X - Critical Mass Edition (Europe)|PCSB01079
+Velocity Ultra (USA) (En,Fr,De,Es,It)|PCSE00038
+Venus Project (Japan)|PCSG00531
+Vertical Drop Heroes HD (USA)|PCSE00621
+Virtua Tennis 4 - World Tour Edition (USA)|PCSE00003
+Virus Named Tom, A (USA)|PCSE00501
+Vitamin X Destination (Japan)|PCSG01115
+Vitamin Z (USA)|PCSE00506
+Volgarr the Viking (USA)|PCSE00913
+Volt (Japan)|PCSG00093
+Volume (USA)|PCSE00760
+Vostok Inc. (USA)|PCSE01038
+VVVVVV (USA)|PCSE00492
+Wagamama High Spec (Japan)|PCSG01084
+Wake-up Club (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)|PCSA00067
+Waking Violet (USA)|PCSE01266
+Walking Dead, The - Season Two - Episode 1 - All That Remains (USA)|PCSE00372
+Walking Dead, The - The Complete First Season (USA) (En,Fr,De,Es,It)|PCSE00316
+Walpurgis no Uta (Japan)|PCSG00768
+Wand of Fortune R2 - Jikuu ni Shizumu Mokushiroku (Japan)|PCSG00938
+Wanderjahr (USA)|PCSE00938
+Wanted Corp. (USA)|PCSE00036
+War Theatre (USA)|PCSE01248
+Warlock's Tower (USA)|PCSE01045
+Warriors Orochi 3 Ultimate (USA)|PCSE00448
+We Are Doomed (USA)|PCSE00793
+WeatherNation (USA)|PCSE00364
+When Vikings Attack! (USA) (En,Fr,Es,Pt)|PCSA00075
+Whispering Willows (USA)|PCSE00633
+White Album 2 - Shiawase no Mukougawa (Japan)|PCSG00249
+Windjammers (USA)|PCSE01032
+Winning Post 8 2018 (Japan)|PCSG01174
+Winter's Daydream, A (USA)|PCSE01389
+WipEout 2048 (USA) (En,Fr,Es)|PCSA00015
+WipEout 2048 - WipEout HD (Europe)|?
+WipEout 2048 - WipEout HD Fury (Europe)|?
+Witchcrafty (USA)|PCSE01516
+Without Escape (USA)|PCSE01445
+Wizardry - Towareshi Bourei no Gai (Japan)|PCSG00511
+Wizardry - Towareshi Tamashii no Meikyuu (Japan)|PCSG00512
+Wizards of Brandel (USA)|PCSE01432
+Woah Dave! (USA)|PCSE00519
+Wolf Among Us, The - A Telltale Games Series (USA)|PCSE00352
+Wolf Among Us, The - The Complete First Season (Europe)|PCSB00450
+Word Maze by POWGI (USA)|PCSE01453
+Word Search by POWGI (USA)|PCSE01286
+Word Sudoku by POWGI (USA)|PCSE01339
+Word Wheel by POWGI (USA)|PCSE01394
+Wordsweeper by POWGI (USA)|PCSE01395
+World Election (Japan)|PCSG01088
+World of Final Fantasy (USA)|PCSE00880
+World Trigger - Borderless Mission (Japan)|PCSG00647
+World Trigger - Smash Borders (Japan)|PCSG00832
+WorldEnd Syndrome (Japan)|PCSG01114
+Worms Revolution Extreme (USA) (En,Fr,De,Es,It)|PCSE00286
+WRC 3 - FIA World Rally Championship (USA)|PCSE00242
+WRC 4 - FIA World Rally Championship (USA) (En,Fr,Es)|PCSE00411
+WRC 5 - FIA World Rally Championship (USA)|PCSE00667
+Wurroom (USA)|PCSE01477
+XBlaze - Code - Embryo (USA)|PCSE00346
+XBlaze - Lost Memories (USA)|PCSE00627
+XCOM - Enemy Unknown Plus (USA)|PCSE00656
+Xeno Crisis (Europe)|PCSB01448
+Xenon Valkyrie+ (USA)|PCSE01191
+XenoRaid (USA)|PCSE00897
+Xeodrifter (USA)|PCSE00694
+Yahari Game Demo Ore no Seishun Love-Kome wa Machigatteiru. Zoku (Japan)|PCSG00895
+Yahari Game demo Ore no Seishun LoveCome wa Machigatteiru. (Japan)|PCSG00215
+Yaken no Rodem (Japan)|PCSG00800
+Yomawari (Japan)|PCSG00669
+Yomawari - Midnight Shadows (USA)|PCSE01139
+Yomawari - Night Alone & htoL-NiQ - The Firefly Diary (USA)|PCSE00989
+Yomawari - Night Alone (USA)|PCSE00909
+Yoru no Nai Kuni (Asia)|PCSH00254
+Yoru no Nai Kuni 2 - Shingetsu no Hanayome (Japan)|PCSG00986
+Yoshiwara Higanbana - Kuon no Chigiri (Japan)|PCSG01120
+Your Diary + (Japan)|PCSG01267
+YouTube (USA)|PCSA00062
+Ys - Memories of Celceta (USA)|PCSE00245
+Ys Origin (USA)|PCSE01033
+Ys VIII - Lacrimosa of Dana (USA)|PCSE01103
+Ys VIII - Lacrimosa of Dana - Muryou-ban (Japan)|PCSG90259
+Yu-No - Kono Yo no Hate de Koi o Utau Shoujo (Japan)|PCSG00567
+Yu-No - Kono Yo no Hate de Koi o Utau Shoujo (Japan) (Original NEC PC-9800 Version)|PCSG00996
+Yumeutsutsu Re-After (Japan)|PCSG01317
+Yumeutsutsu Re-Master (Japan)|PCSG01266
+Yunohana Spring! Cherishing Time (Japan)|PCSG00909
+Yuusha no Kiroku (Japan)|PCSC00003
+Yuusha Shisu. (Japan)|PCSG00693
+Z-Run (USA)|PCSE00310
+Zanki Zero (Japan)|PCSG01113
+Zen Pinball 2 (USA) (En,Fr,De,Es,It)|PCSE00050
+Zero Escape - The Nonary Games (USA)|PCSE01006
+Zero Escape - Virtue's Last Reward (USA)|PCSE00085
+Zero Escape - Zero Time Dilemma (USA)|PCSE00781
+Zero Zero Zero Zero (USA)|PCSE01088
+Zeroptian Invasion (USA)|PCSE01371
+Zettai Kaikyuu Gakuen - Eden with Roses and Phantasm (Japan)|PCSG00880
+Zettai Meikyuu - Himitsu no Oya Yubi Hime (Japan)|PCSG00611
+Zombie Tycoon II - Brainhov's Revenge (USA) (En,Fr,De,Es,It)|PCSE00102
+Zombies - The Last Survivor (USA)|PCSE00894
