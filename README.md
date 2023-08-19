@@ -12,15 +12,13 @@ Things become tedious to add to your favorite FrontEnd if you imported the whole
 
 # Pre-requisite
 
-You must already imported all games to Vita3K. I suggest you to batch the job using the scripts from my other repo [vita3k-batch-pkg-installer](https://github.com/dsync89/vita3k-batch-pkg-installer), especially if you have more than 100 titles! Even using batch job, it took 3 full days to fully import all 1824 titles to a USB3 connected HDD @7200RPM. Imagine doing it manually via the GUI for each of these titles individually!
+1) The games used here are from **NoPayStation (PSN Content)**, not Commercial Cartridge. You can download these ROMs from the amazing [Erista](https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%20Vita%20(PSN)%20(Content)/) website.
+
+2) You must already imported all games to Vita3K. I suggest you to batch the job using the scripts from my other repo [vita3k-batch-pkg-installer](https://github.com/dsync89/vita3k-batch-pkg-installer), especially if you have more than 100 titles! Even using batch job, it took 3 full days to fully import all 1824 titles to a USB3 connected HDD @7200RPM. Imagine doing it manually via the GUI for each of these titles individually!
 
 # Quick Start
 
-Have all your PS Vita game folder renamed according to the DAT file.
-
-This uses the ROMs downloaded from the amazing Erista website: https://myrient.erista.me/files/No-Intro/Sony%20-%20PlayStation%20Vita%20(PSN)%20(Content)/
-
-Generate a list of AHK for each game in your game folder.
+Generate a list of AHK for each game in your game folder. If you downloaded from Erista, use that here.
 ```
 python3 gen_ahk.py
 ```
